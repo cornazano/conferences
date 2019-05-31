@@ -2,7 +2,7 @@
 
 ## Drafting Success
 
-[Emily Freeman](https://twitter.com/editingemily)
+[Emily Freeman](https://twitter.com/editingemily) (Microsoft)
 
 [twitter thread](https://twitter.com/cornazano/status/1133725021526999040)
 
@@ -32,7 +32,7 @@
 
 ## How to Have an Operational Incident (A Crash Course)
 
-[Courtney Eckhardt](https://twitter.com/hashoctothorpe)
+[Courtney Eckhardt](https://twitter.com/hashoctothorpe) (Heroku)
 
 [twitter thread](https://twitter.com/cornazano/status/1133734628299350016)
 
@@ -66,9 +66,8 @@
 
 ## Shortcuts and Scenic Routes: Deconstructing DevOps
 
-Matthew Chum
-
-Monti Ghai
+Matthew Chum (Genesys) |
+Monti Ghai (Genesys)
 
 [twitter thread](https://twitter.com/cornazano/status/1133748028710490112)
 
@@ -96,7 +95,7 @@ Monti Ghai
 
 ## Just in Time Cloud Infrastructure: Redefining the Relationship Between Applications and Cloud Infrastructure
 
-Austen Novis
+Austen Novis (Capital One)
 
 [twitter thread](https://twitter.com/cornazano/status/1133757105889062912)
 
@@ -120,7 +119,7 @@ Austen Novis
 
 ## My Favourite Errors
 
-[Hany Fahim](https://twitter.com/iHandroid)
+[Hany Fahim](https://twitter.com/iHandroid) (VM Farms)
 
 [twitter thread](https://twitter.com/cornazano/status/1133789014618726401)
 
@@ -157,3 +156,167 @@ Austen Novis
 > #DevOpsDaysTO
 
 > Lesson from a wonderful story: getting a late page is better than no page at all, and make sure you get notified for all maintenances (even "non impacting" ones). #DevOpsDaysTO
+
+# Day 2: Thursday 2019-05-29
+
+## Making Connections Visible: How To Defrag Your Value Stream
+
+[Dominica DeGrandis](https://twitter.com/dominicad) (Tasktop)
+
+[twitter thread](https://twitter.com/cornazano/status/1134086511945834496)
+
+**Livetweet contents**
+
+> Starting off day two, we have Dominica DeGrandis @dominicad talking about Making Connections Visible. #DevOpsDaysTO
+
+> As part of the work we need to make visible, we need to see and understand the handoffs that occur at the connection points between teams / disciplines. A defragged value stream improves these handoff points and improves flow. #DevOpsDaysTO
+
+> Three things to cover today:
+>
+> - Compexity drives specialization
+> - Specialization increases coordination
+> - How to visualize handoffs as work flows
+>
+> #DevOpsDaysTO
+
+> It doesn't matter how fast dev is going - or any other part of the value stream - if that's not where the bottleneck is. [This ties into the Theory of Constraints, covered in Goldratt's _The Goal_.] #DevOpsDaysTO
+
+> In the medical field, we've evolved from a doctor and a nurse to over 120 specialties. We see a similar range of specializations evolving in the technical space - including complexity in the information security sector. #DevOpsDaysTO
+
+> Risks are increasing, including things like hackable medical devices. But developers are often not incentivized to work on security, and even frequently consider it to not be part of their job. #DevOpsDaysTO
+
+> In healthcare, there is no holistic view of the patient. This contributes to medical errors being the third leading cause of death in the United States, as details get lost.
+>
+> And we see a parallel occurring in IT.
+>
+> #DevOpsDaysTO
+
+> Our understanding of what the "stack" is in "full stack development" has been deepening; very few people are truly handling the full stack. #DevOpsDaysTO
+
+> Trying to truly do full stack is a driver for cognitive overload, which will contribute to burnout (see Maslach's work for more insight on this). #DevOpsDaysTO
+
+> [Link to Maslach's DOES 18 presentation: https://www.youtube.com/watch?v=gRPBkCW0R5E …] #DevOpsDaysTO
+
+> People often don't know where there work originates from. It just shows up in Jira. A value stream canvas exercise targeting a specific type of work (e.g., incident management) can help us understand how work actually occurs. #DevOpsDaysTO
+
+> Value stream canvas exercises can help us to determine where the bottlenecks are in our value stream. #DevOpsDaysTO
+
+## Inner Source: How TELUS is Adopting Open-Source Practices to Solve Problems of Scale, and how you can too.
+
+[Wasim Hossain](https://twitter.com/wascloud) (TELUS)
+
+[twitter thread](https://twitter.com/cornazano/status/1134097009735086080)
+
+**Livetweet contents**
+
+> Next up is Wasim Hossain @wascloud talking about inner source at Telus. #DevOpsDaysTO
+
+> Telus' digital team consisted of 60 developers in 2014; they were able to fit everyone in a single large room to make technical decisions. By 2016, grew to 200 team members and the existing processes didn't work anymore. 435 people now. #DevOpsDaysTO
+
+> A problem that shows up: consumer-facing online presence had variation in how things were presented. This was a consequence of different teams using different tools to build these experiences. #DevOpsDaysTO
+
+> Looking at open source projects, we see things like kubernetes with 2000+ contributors. It makes coordinating 60 people seem easy. What can we learn? #DevOpsDaysTO
+
+> Some key properties:
+>
+> * Open collaboration
+> * Modular and testable architecture
+> * Strong core team
+>
+> #DevOpsDaysTO
+
+> Inner source applies open source approaches to software development and applies them to how organizations develop their code bases. A first step at Telus was to work on reference standards and practices. #DevOpsDaysTO
+
+> Shifting to an inner source model has influenced how they work. The team used to have to reach out to other teams and request they update to newer versions of their libraries; the onus is now on the teams that consume the code. #DevOpsDaysTO
+
+> If considering adopting an inner source model, it is important to ask some questions to see if there is a cultural fit. Without this, the initiative may not succeed. #DevOpsDaysTO
+
+> To move to an inner source model, recommends starting by:
+>
+> * Introducing a culture of transparency;
+> * Estabilshing testing and coding standards; and
+> * Architecting for collaboration.
+>
+> #DevOpsDaysTO
+
+## Double, Double, Toil and Trouble: SRE transformation through automation and collaboration
+
+Bozhidar Lenchov (Pivotal) |
+Jesse Malone (Pivotal)
+
+[twitter thread](https://twitter.com/cornazano/status/1134111665258160128)
+
+**Livetweet contents**
+
+> Next up: Bozhidar Lenchov and Jesse Malone talking about toil and SRE transformation. #DevOpsDaysTO
+
+> What is toil? Some common elements: well defined path to resolution; little decision making (automatable); repetitive; reactive; prone to error; no new value provided. #DevOpsDaysTO
+
+> To help qualify this, we should also answer the qestion... What is _not_ toil? Overhead, work with long term value, incident reporting, automation, systems engineering. #DevOpsDaysTO
+
+> All toil has costs for the team and the organization. It affects flow and team health, and costs us both time and money. #DevOpsDaysTO
+
+> Paying attenton to our daily work can help us identify toil. Listening to new team members can be particularly valuable here. Tracking recurrence - including time spent - can feed into prioritizing what toil to address. #DevOpsDaysTO
+
+> Among things to consider: what other teams / stakeholders are impacted? Combination of costs and scope determines the overall impact of a particular element of toil. #DevOpsDaysTO
+
+> We can't necessarily resolve a source of toil by making a single change. We can [and should!] iterate on our mitigations / solutions. #DevOpsDaysTO
+
+> SLIs and SLOs are important for Site Reliability Engineering. SLIs represent customer experience, SLOs represent customer expectations. #DevOpsDaysTO
+
+> The practices, techniques, and tools can be propagated through cultural change. This is how the results can be scaled to a larger organization. #DevOpsDaysTO
+
+> Cultural change comes from the bottom up. It does not work through command and control dictates. "Culture eats strategy for breakfast." (Drucker) #DevOpsDaysTO
+
+## Sensory Friendly Monitoring: Keeping the Noise Down
+
+[Quintessence Anx](https://twitter.com/QuintessenceAnx) (Logz.io)
+
+[twitter thread](https://twitter.com/cornazano/status/1134120891548360706)
+
+**Livetweet contents**
+
+> Next up: Quintessence Anx @QuintessenceAnx helping us learn to keep the noise down, talking to us about Sensory Friendly Monitoring. #DevOpsDaysTO
+
+> When we try to know everything, we get overloaded and we end up muting things and burying whole sources of information. This makes it artificially quiet, but we can't trust it. #DevOpsDaysTO
+
+> Quick interactions that interrupt us cost us time when trying to meet goals. A study has indicated it can take 25 minutes to recover from something as simple as "what's the wifi password?" #DevOpsDaysTO
+
+> Most brains are not wired for multitasking. Study: Error rates on straightforward tasks *tripled* when trying to multitask. #DevOpsDaysTO
+
+> Our goal needs to be aware without becoming overwhelmed. A starting point to get control of the noise and disruption in our work context is to understand the information flows; setting and communicating boundaries can help us protect our own work space. #DevOpsDaysTO
+
+> Developing that understanding starts by categorizing the noise, which helps us make sure that each source is properly configured and tuned to what we need to know. #DevOpsDaysTO
+
+> Two important points: redundancy and housekeeping are needed. We don't want to lose visibility if a single source fails. We also don't want irrelevant alerts, they just encourage us to ignore our sources of information. #DevOpsDaysTO
+
+## Journey to the Promised Land
+
+Jacquelyne Grindrod (Medstack)
+
+[twitter thread](https://twitter.com/cornazano/status/1134150533399371776)
+
+**Livetweet contents**
+
+> The last session of the main track: Jacquelyne Grindrod talking to us about the Journey to the Promised land. #DevOpsDaysTO
+
+> On average, it costs $5,600 per minute of downtime. 99.9% availability allows only 42 minutes of downtime per month. #DevOpsDaysTO
+
+> The promised land is built from the ground up; our ideal state will differ depending on our context. #DevOpsDaysTO
+
+> As a team, they had worked through from firefighting to something that once seemed out of reach. But without the details of how they got there, they can't share with others how to get there and replicate the results. #DevOpsDaysTO
+
+> Understanding where we've been and how we got here needs retrospection. We need to start with the questions of where we are you going, and why? #DevOpsDaysTO
+
+> The foundation for success is the _culture_. Processes and technologies to succeed are layered on top of this. #DevOpsDaysTO
+
+> When they built a pipeline, they made opinionated decisions... but there wasn't enough coordination. Discussion and coordination could have avoided gaps between needs and the outcomes they got. #DevOpsDaysTO
+
+> A lesson in process: trying to measure and manage interrupts by timers or help forms created barriers. A regular meeting worked better. #DevOpsDaysTO
+
+> Building stable products starts before any code is commited. Work through culture and process before getting to the tech stuff. #DevOpsDaysTO
+
+> Question: How should we start?
+> Answer: Watch for what hurts. Start working on it. And even if you don't succeed, you've still learned something and can help guide you forward.
+>
+> #DevOpsDaysTO
