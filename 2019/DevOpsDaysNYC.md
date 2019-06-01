@@ -1,6 +1,22 @@
+# DevOpsDays Toronto 2019
+
+The sessions I attended / livetweeted:
+
+* [Dominica DeGrandis — Making Connections Visible: How to Defrag your Value Stream](#making-connections-visible-how-to-defrag-your-value-stream)
+* [Jaclyn Damiano — The X Factor: Making Women Visible](#the-x-factor-making-women-visible)
+* [Gaurav Gargate — Steel Thread approach to building large scale architectures](#steel-thread-approach-to-building-large-scale-architectures)
+* [Quintessence Anx — Sensory Friendly Monitoring: Keeping the Noise Down](#sensory-friendly-monitoring-keeping-the-noise-down)
+* [Matty Stratton — Fight, Flight, or Freeze — Releasing Organizational Trauma](#fight-flight-or-freeze-releasing-organizational-trauma)
+* [Liz Fong-Jones — Organizing for Your Ethical Principles](#organizing-for-your-ethical-principles)
+* [Jessica Kerr — Principles of Collaborative Automation](#principles-of-collaborative-automation)
+* [Rob Boll — Kubernetes at Datadog: The Very Hard Way](#kubernetes-at-datadog-the-very-hard-way)
+* [Alex Hidalgo — Developing Meaningful SLIs for Fun and Profit](#developing-meaningful-slis-for-fun-and-profit)
+* [Peter Chestna — This Lane Ends: Shifting Security Left](#this-lane-ends-shifting-security-left)
+
+
 # Day 1: Thursday 2019-01-24
 
-## Making Connections Visible: How to Defrag your Value Stream (DeGrandis)
+## Making Connections Visible: How to Defrag your Value Stream
 
 [Dominica DeGrandis](https://twitter.com/dominicad)
 
@@ -28,7 +44,7 @@
 
 > Ideally, this exercise is lighter weight than a full value stream mapping, but gets some of the benefits of it. #devopsdaysnyc
 
-## The X Factor: Making Women Visible (Damiano)
+## The X Factor: Making Women Visible
 
 [Jaclyn Damiano](https://twitter.com/jaclyn_damiano)
 
@@ -52,7 +68,7 @@
 
 > Benefits: Diversity of experience (gender, race, socioeconomic classes); Investing in local community; potential for significant evolution in the tech workforce. #devopsdaysnyc
 
-## Steel Thread approach to building large scale architectures (Gargate)
+## Steel Thread approach to building large scale architectures
 
 [Gaurav Gargate](https://twitter.com/gauravgag)
 
@@ -82,7 +98,7 @@
 
 > Among the lessons learned - a focus on onboarding and ability to manage the transition to development teams supporting the service they build is necessary. #devopsdaysnyc
 
-## Sensory Friendly Monitoring: Keeping the Noise Down (Anx)
+## Sensory Friendly Monitoring: Keeping the Noise Down
 
 [Quintessence Anx](https://twitter.com/quintessenceanx)
 
@@ -106,7 +122,7 @@
 
 > Spring cleaning (housekeeping) of alerts is important to manage the noise levels. We need to check the checks or we'll get false positives or checks that are no longer relevant based on the changing ecosystem. #devopsdaysnyc
 
-## Fight, Flight, or Freeze — Releasing Organizational Trauma (Stratton)
+## Fight, Flight, or Freeze — Releasing Organizational Trauma
 
 [Matty Stratton](https://twitter.com/mattstratton)
 
@@ -140,7 +156,7 @@
 
 # Day 2: Friday 2019-01-25
 
-## Organizing for Your Ethical Principles (Fong-Jones)
+## Organizing for Your Ethical Principles
 
 [Liz Fong-Jones](https://twitter.com/lizthegrey)
 
@@ -172,7 +188,7 @@
 
 > [This was one of the emotionally harder talks I've listened to, and also one of the more important ones.] #devopsdaysnyc
 
-## Principles of Collaborative Automation (Kerr)
+## Principles of Collaborative Automation
 
 [Jessica Kerr](https://twitter.com/jessitron)
 
@@ -204,7 +220,7 @@
 
 > Key point: Let the human decide things, and let the human see what's going on. #devopsdaysnyc
 
-## Kubernetes at Datadog: The Very Hard Way (Boll)
+## Kubernetes at Datadog: The Very Hard Way
 
 Rob Boll
 
@@ -230,7 +246,7 @@ Rob Boll
 
 > The "early adopter tax" is really expensive. You need to communicate effectively, since there will be some slowdowns in development and delivery of solutions. #devopsdaysnyc
 
-## Developing Meaningful SLIs for Fun and Profit (Hidalgo)
+## Developing Meaningful SLIs for Fun and Profit
 
 Alex Hidalgo
 
@@ -256,7 +272,7 @@ Alex Hidalgo
 
 > Building meaningful SLIs is useful because we end up with happier users, engineers, and product teams. #devopsdaysnyc
 
-## This Lane Ends: Shifting Security Left (Chestna)
+## This Lane Ends: Shifting Security Left
 
 [Peter Chestna](https://twitter.com/petechestna)
 

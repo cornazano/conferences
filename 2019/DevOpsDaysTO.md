@@ -1,3 +1,19 @@
+# DevOpsDays Toronto 2019
+
+The sessions I attended / livetweeted:
+
+* [Emily Freeman — Drafting Success](#drafting-success)
+* [Courtney Eckhardt — How to Have an Operational Incident (A Crash Course)](#how-to-have-an-operational-incident)
+* [Matthew Chum & Monti Ghai — Shortcuts and Scenic Routes: Deconstructing DevOps](#shortcuts-and-scenic-routes-deconstructing-devops)
+* [Austen Novis — Just in Time Cloud Infrastructure: Redefining the Relationship Between Applications and Cloud Infrastructure](#just-in-time-cloud-infrastructure-redefining-the-relationship-between-applications-and-cloud-infrastructure)
+* [Hany Fahim — My Favourite Errors](#my-favourite-errors)
+* [Dominica DeGrandis — Making Connections Visible: How To Defrag Your Value Stream](#making-connections-visible-how-to-defrag-your-value-stream)
+* [Wasim Hossain — Inner Source: How TELUS is Adopting Open-Source Practices to Solve Problems of Scale, and how you can too.](#inner-source-how-telus-is-adopting-open-source-practices-to-solve-problems-of-scale-and-how-you-can-too)
+* [Bozhidar Lenchov & Jesse Malone — Double, Double, Toil and Trouble: SRE transformation through automation and collaboration](#double-double-toil-and-trouble-sre-transformation-through-automation-and-collaboration)
+* [Quintessence Anx — Sensory Friendly Monitoring: Keeping the Noise Down](#sensory-friendly-monitoring-keeping-the-noise-down)
+* [Jacquelyne Grindrod — Journey to the Promised Land](#journey-to-the-promised-land)
+
+
 # Day 1: Wednesday 2019-05-29
 
 ## Drafting Success
@@ -292,7 +308,7 @@ Jesse Malone (Pivotal)
 
 ## Journey to the Promised Land
 
-Jacquelyne Grindrod (Medstack)
+[Jacquelyne Grindrod](https://twitter.com/devopsjacquie) (Medstack)
 
 [twitter thread](https://twitter.com/cornazano/status/1134150533399371776)
 
