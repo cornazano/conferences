@@ -1,8 +1,35 @@
-Day 1: Monday 2018-10-22
-================================================================================
+# DevOps Enterprise Summit 2018
 
-Build a Bigger Team (Bradley / Kissler)
---------------------------------------------------------------------------------
+The sessions I attended / livetweeted:
+
+* [Anne Bradley & Courtney Kissler — Build a Bigger Team](#build-a-bigger-team)
+* [Brian Clark & Scott Prugh — Product Management Meets DevOps](#product-management-meets-devops)
+* [Jeffrey Snover — Digital Transformation - Thriving Through The Transition](#digital-transformation-thriving-through-the-transition)
+* [Tom Limoncelli — Operations Reform: Tom-Sawyer-ing Your Way to Operational Excellence](#operations-reform-tom-sawyer-ing-your-way-to-operational-excellence)
+* [Nicole Bryan & Kevin Fisher — Project to Product - Practical Realities at Large Scale Enterprises](#project-to-product-practical-realities-at-large-scale-enterprises)
+* [Laura Fay — DevOps and Product Management - The Makings of a Beautiful Partnership](#devops-and-product-management-the-makings-of-a-beautiful-partnership)
+* [Dr. Christina Maslach — Understanding Job Burnout](#understanding-job-burnout)
+* [Mik Kersten — Project to Product: How Value Stream Networks Will Transform IT and Business](#project-to-product-how-value-stream-networks-will-transform-it-and-business)
+* [Dr. Topo Pal & Jamie Specter — Bank On Open Source for DevOps Success](#bank-on-open-source-for-devops-success)
+* [Dan Cundiff, Levi Geinert, & Lucas Rettig — Crowdsourcing Technology Governance](#crowdsourcing-technology-governance)
+* [Damon Edwards — Operations: The Last Mile](#operations-the-last-mile)
+* [Pauly Comtois — DevOps Deconstruction: A Framework for Everyone](#devops-deconstruction-a-framework-for-everyone)
+* [Dominica DeGrandis — Making Connections Visible: How To Defrag Your Value Stream](#making-connections-visible-how-to-defrag-your-value-stream)
+* [Jonathan Smart — Want to Mandate One Way? Don't. Give People a VOICE](#want-to-mandate-one-way-don-t-give-people-a-voice)
+* [Dr. Nicole Forsgren & Jez Humble — The Data Behind DevOps: Becoming a High Performer](#the-data-behind-devops-becoming-a-high-performer)
+* [Dr. Steve Spear — Discovering Your Way to Greatness](#discovering-your-way-to-greatness)
+* [Cornelia Davis — Taking Ops & Infrastructure from Iterative to Functional, Just Like Dev](#taking-ops-infrastructure-from-iterative-to-functional-just-like-dev)
+* [Gene Kim & Chris O'Malley — Fireside Chat With Compuware CEO Chris O'Malley](#fireside-chat-with-compuware-ceo-chris-o-malley)
+* [J. Paul Reed — The Five Dirty Words of CI](#the-five-dirty-words-of-ci)
+* [Jon Hall — The Problem Of Becoming a 3rd-Line Support Team... And Why Swarming Works Better for DevOps](#the-problem-of-becoming-a-3rd-line-support-team-and-why-swarming-works-better-for-devops)
+* [Scott Havens — Forging a Functional Enterprise](#forging-a-functional-enterprise)
+* [Jason Cox & Deepti Mutnuru — Disney DevOps: A Tale of Technology, Leadership and Community](#disney-devops-a-tale-of-technology-leadership-and-community)
+* [John Rzeszotarski — Breaking Bad Leadership: The Anti-Heroes of DevOps](#breaking-bad-leadership-the-anti-heroes-of-devops)
+
+
+# Day 1: Monday 2018-10-22
+
+## Build a Bigger Team
 
 [Anne Bradley](https://twitter.com/annebradley) / [Courtney Kissler](https://twitter.com/chawklady)
 
@@ -29,8 +56,7 @@ Build a Bigger Team (Bradley / Kissler)
 * Moving to a multiregion strategy. This is more than just moving things (not just theater).
 
 
-Product Management Meets DevOps (Clark / Prugh)
---------------------------------------------------------------------------------
+## Product Management Meets DevOps
 
 Brian Clark / [Scott Prugh](https://twitter.com/ScottPrugh)
 
@@ -68,8 +94,7 @@ Brian Clark / [Scott Prugh](https://twitter.com/ScottPrugh)
 * Work management is unified in a single system; ongoing improvement efforts are integrated into the service.
 
 
-Digital Transformation - Thriving Through The Transition (Snover)
---------------------------------------------------------------------------------
+## Digital Transformation - Thriving Through The Transition
 
 [Jeffrey Snover](https://twitter.com/jsnover)
 
@@ -108,8 +133,7 @@ Digital Transformation - Thriving Through The Transition (Snover)
 * Automation is key to creating bandwidth.
 
 
-Operations Reform: Tom-Sawyer-ing Your Way to Operational Excellence (Limoncelli)
---------------------------------------------------------------------------------
+## Operations Reform: Tom-Sawyer-ing Your Way to Operational Excellence
 
 [Tom Limoncelli](https://twitter.com/yesthattom)
 
@@ -140,8 +164,7 @@ Operations Reform: Tom-Sawyer-ing Your Way to Operational Excellence (Limoncelli
 * Culture - we want to FIX things, not hide them.
 
 
-Project to Product - Practical Realities at Large Scale Enterprises (Bryan / Fisher)
---------------------------------------------------------------------------------
+## Project to Product - Practical Realities at Large Scale Enterprises
 
 [Nicole Bryan](https://twitter.com/nicolebryan) / Kevin Fisher
 
@@ -184,8 +207,7 @@ Project to Product - Practical Realities at Large Scale Enterprises (Bryan / Fis
   * 8 teams
 
 
-DevOps and Product Management - The Makings of a Beautiful Partnership (Fay)
---------------------------------------------------------------------------------
+## DevOps and Product Management - The Makings of a Beautiful Partnership
 
 Laura Fay
 
@@ -216,8 +238,7 @@ Laura Fay
 * Shift from code-to-cloud to idea-to-customer-use.
 
 
-Understanding Job Burnout (Maslach)
---------------------------------------------------------------------------------
+## Understanding Job Burnout
 
 [Dr. Christina Maslach](https://twitter.com/CMaslach)
 
@@ -259,8 +280,7 @@ Understanding Job Burnout (Maslach)
 > Changes in our work environments can make a (significant) difference in the experience of workers. #DOES18 [IMAGE]
 
 
-Project to Product: How Value Stream Networks Will Transform IT and Business (Kersten)
---------------------------------------------------------------------------------
+## Project to Product: How Value Stream Networks Will Transform IT and Business
 
 [Mik Kersten](https://twitter.com/mik_kersten)
 
@@ -304,12 +324,10 @@ Project to Product: How Value Stream Networks Will Transform IT and Business (Ke
 > An unexpected consequence of focusing on more features (and taking on tech debt): reduced happiness. [IMAGE]
 
 
-Day 2: Tuesday 2018-10-23
-================================================================================
+# Day 2: Tuesday 2018-10-23
 
 
-Bank On Open Source for DevOps Success (Pal / Specter)
---------------------------------------------------------------------------------
+## Bank On Open Source for DevOps Success
 
 [Dr. Topo Pal](https://twitter.com/TopoPal) / Jamie Specter
 
@@ -345,8 +363,7 @@ Bank On Open Source for DevOps Success (Pal / Specter)
 > One of the primary benefits of their open source investment is the reinforcement of a culture of collaboration. #DOES18
 
 
-Crowdsourcing Technology Governance (Cundiff / Geinert / Rettig)
---------------------------------------------------------------------------------
+## Crowdsourcing Technology Governance
 
 [Dan Cundiff](https://twitter.com/pmotch) / [Levi Geinert](https://twitter.com/levi_online) / [Lucas Rettig](https://twitter.com/LukeRettig)
 
@@ -382,8 +399,7 @@ Crowdsourcing Technology Governance (Cundiff / Geinert / Rettig)
 > "Software is never done, it's just ready to be shipped." #DOES18
 
 
-Operations: The Last Mile (Edwards)
---------------------------------------------------------------------------------
+## Operations: The Last Mile
 
 [Damon Edwards](https://twitter.com/damonedwards)
 
@@ -426,8 +442,7 @@ Operations: The Last Mile (Edwards)
 > Self service strategy: provides a point for integrating security, improves recovery time, and improves consistency and compliance. #DOES18
 
 
-DevOps Deconstruction: A Framework for Everyone (Comtois)
---------------------------------------------------------------------------------
+## DevOps Deconstruction: A Framework for Everyone
 
 [Pauly Comtois](https://twitter.com/paulycomtois)
 
@@ -463,8 +478,7 @@ DevOps Deconstruction: A Framework for Everyone (Comtois)
 > Culture + strategy drive vision and authenticity; management + engineers drive uniquness and environments for change; leadership needs to move to a leader-leader model to make the difference in change efforts. #DOES18
 
 
-Making Connections Visible: How To Defrag Your Value Stream (DeGrandis)
---------------------------------------------------------------------------------
+## Making Connections Visible: How To Defrag Your Value Stream
 
 [Dominica DeGrandis](https://twitter.com/dominicad)
 
@@ -498,8 +512,7 @@ Making Connections Visible: How To Defrag Your Value Stream (DeGrandis)
 > Teams need to become mutually aware of each other in the value stream; part of this occurs by moving from just making work visible to making the connections visible. #DOES18
 
 
-Want to Mandate One Way? Don't. Give People a VOICE (Smart)
---------------------------------------------------------------------------------
+## Want to Mandate One Way? Don't. Give People a VOICE
 
 [Jonathan Smart](https://twitter.com/jonsmart)
 
@@ -558,8 +571,7 @@ Want to Mandate One Way? Don't. Give People a VOICE (Smart)
 * Happier - eNPS, cNPS (net promoter scores)
 
 
-The Data Behind DevOps: Becoming a High Performer (Forsgren / Humble)
---------------------------------------------------------------------------------
+## The Data Behind DevOps: Becoming a High Performer
 
 [Dr. Nicole Forsgren](https://twitter.com/nicolefv) / [Jez Humble](https://twitter.com/jezhumble)
 
@@ -607,8 +619,7 @@ The Data Behind DevOps: Becoming a High Performer (Forsgren / Humble)
 > Change advisor boards are useless for approvals. Correlates *negatively* with performance. Need to move to governance rather than inspection. #DOES18
 
 
-Discovering Your Way to Greatness (Spear)
---------------------------------------------------------------------------------
+## Discovering Your Way to Greatness
 
 [Dr. Steve Spear](https://twitter.com/StevenJSpear)
 
@@ -636,12 +647,10 @@ Discovering Your Way to Greatness (Spear)
 > We have an inclination to practice for the expected normal situations; we need to practice for the outliers. #DOES18
 
 
-Day 3: Wednesday 2018-10-24
-================================================================================
+# Day 3: Wednesday 2018-10-24
 
 
-Taking Ops & Infrastructure from Iterative to Functional, Just Like Dev (Davis)
---------------------------------------------------------------------------------
+## Taking Ops & Infrastructure from Iterative to Functional, Just Like Dev
 
 [Cornelia Davis](https://twitter.com/cdavisafc)
 
@@ -669,8 +678,7 @@ Taking Ops & Infrastructure from Iterative to Functional, Just Like Dev (Davis)
 > Sidecars allow us to inject cross-cutting concerns, like what we do in aspect-oriented programming. #DOES18
 
 
-Fireside Chat With Compuware CEO Chris O'Malley (Kim / O'Malley)
---------------------------------------------------------------------------------
+## Fireside Chat With Compuware CEO Chris O'Malley
 
 [Gene Kim](https://twitter.com/RealGeneKim) / [Chris O'Malley](https://twitter.com/chris_t_omalley)
 
@@ -697,8 +705,7 @@ Fireside Chat With Compuware CEO Chris O'Malley (Kim / O'Malley)
 > I really like the perspective and experience shared in this fireside chat. Visibility into the exec level thought processes isn't something we get often enough. Thank you, @chris_t_omalley !
 
 
-The Five Dirty Words of CI (Reed)
---------------------------------------------------------------------------------
+## The Five Dirty Words of CI
 
 [J. Paul Reed](https://twitter.com/jpaulreed)
 
@@ -734,8 +741,7 @@ The Five Dirty Words of CI (Reed)
 > Takeaways. Not a one-and-done thing. Respect reality. Treat people like professionals they are. #DOES18
 
 
-The Problem Of Becoming a 3rd-Line Support Team... And Why Swarming Works Better for DevOps (Hall)
---------------------------------------------------------------------------------
+## The Problem Of Becoming a 3rd-Line Support Team... And Why Swarming Works Better for DevOps
 
 [Jon Hall](https://twitter.com/JonHall_)
 
@@ -767,8 +773,7 @@ The Problem Of Becoming a 3rd-Line Support Team... And Why Swarming Works Better
 > Nice! Relating the swarming model to the Cynefin domains! #DOES18
 
 
-Forging a Functional Enterprise (Havens)
---------------------------------------------------------------------------------
+## Forging a Functional Enterprise
 
 Scott Havens
 
@@ -796,8 +801,7 @@ Scott Havens
 > Interesting property: you can re-create the state as it existed at any time by processing the event queue. #DOES18
 
 
-Disney DevOps: A Tale of Technology, Leadership and Community (Cox / Mutnuru)
---------------------------------------------------------------------------------
+## Disney DevOps: A Tale of Technology, Leadership and Community
 
 [Jason Cox](https://twitter.com/jasonacox) / [Deepti Mutnuru](https://twitter.com/DMutnuru)
 
@@ -819,8 +823,7 @@ Disney DevOps: A Tale of Technology, Leadership and Community (Cox / Mutnuru)
 > Created a Technology Management Rotation program focused on making sure that people can have an impact on the organization; most people in it come from other disciplines, leading to cross-functional expertise. #DOES18
 
 
-Breaking Bad Leadership: The Anti-Heroes of DevOps (Rzeszotarski)
---------------------------------------------------------------------------------
+## Breaking Bad Leadership: The Anti-Heroes of DevOps
 
 [John Rzeszotarski](https://twitter.com/rzesz)
 
