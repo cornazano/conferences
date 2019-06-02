@@ -23,4 +23,4 @@
 
 ## 2014
 
-* PyCon (April 11-13, Montreal)
+* [PyCon (April 11-13, Montreal)](2014/pycon.ipynb)
