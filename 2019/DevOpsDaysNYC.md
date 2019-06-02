@@ -1,4 +1,4 @@
-# DevOpsDays Toronto 2019
+# DevOpsDays New York City 2019
 
 The sessions I attended / livetweeted:
 
