@@ -13,6 +13,10 @@ The sessions I attended / livetweeted:
 * [Quintessence Anx — Sensory Friendly Monitoring: Keeping the Noise Down](#sensory-friendly-monitoring-keeping-the-noise-down)
 * [Jacquelyne Grindrod — Journey to the Promised Land](#journey-to-the-promised-land)
 
+Other post-conference stuff:
+
+* [Michael McCliment — Value Stream Mapping References (DevOpsDays Toronto 2019)](https://medium.com/@cornazano/value-stream-mapping-references-devopsdays-toronto-2019-ffe116e7ca8a)
+
 
 # Day 1: Wednesday 2019-05-29
 
