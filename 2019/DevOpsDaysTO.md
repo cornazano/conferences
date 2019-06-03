@@ -24,7 +24,9 @@ Other post-conference stuff:
 
 [Emily Freeman](https://twitter.com/editingemily) (Microsoft)
 
-[twitter thread](https://twitter.com/cornazano/status/1133725021526999040)
+[twitter thread](https://twitter.com/cornazano/status/1133725021526999040) |
+[MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1133812784838467586) |
+[Denise Yu's sketch](https://twitter.com/deniseyu21/status/1133732734935949314)
 
 **Livetweet contents**
 
@@ -54,7 +56,9 @@ Other post-conference stuff:
 
 [Courtney Eckhardt](https://twitter.com/hashoctothorpe) (Heroku)
 
-[twitter thread](https://twitter.com/cornazano/status/1133734628299350016)
+[twitter thread](https://twitter.com/cornazano/status/1133734628299350016) |
+[MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1133817587761111047) |
+[Denise Yu's sketch](https://twitter.com/deniseyu21/status/1133752949468016643)
 
 **Livetweet contents**
 
@@ -89,7 +93,8 @@ Other post-conference stuff:
 Matthew Chum (Genesys) |
 Monti Ghai (Genesys)
 
-[twitter thread](https://twitter.com/cornazano/status/1133748028710490112)
+[twitter thread](https://twitter.com/cornazano/status/1133748028710490112) |
+[MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1133815763175915520)
 
 **Livetweet contents**
 
@@ -117,7 +122,9 @@ Monti Ghai (Genesys)
 
 Austen Novis (Capital One)
 
-[twitter thread](https://twitter.com/cornazano/status/1133757105889062912)
+[twitter thread](https://twitter.com/cornazano/status/1133757105889062912) |
+[MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1134200215450398720) |
+[Denise Yu's sketch](https://twitter.com/deniseyu21/status/1133800160398630912)
 
 **Livetweet contents**
 
@@ -141,7 +148,9 @@ Austen Novis (Capital One)
 
 [Hany Fahim](https://twitter.com/iHandroid) (VM Farms)
 
-[twitter thread](https://twitter.com/cornazano/status/1133789014618726401)
+[twitter thread](https://twitter.com/cornazano/status/1133789014618726401) |
+[MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1134159383661809665) |
+[Denise Yu's sketch](https://twitter.com/deniseyu21/status/1133805355958439941)
 
 **Livetweet contents**
 
@@ -183,7 +192,9 @@ Austen Novis (Capital One)
 
 [Dominica DeGrandis](https://twitter.com/dominicad) (Tasktop)
 
-[twitter thread](https://twitter.com/cornazano/status/1134086511945834496)
+[twitter thread](https://twitter.com/cornazano/status/1134086511945834496) |
+[MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1134158336419672064) |
+[Denise Yu's sketch](https://twitter.com/deniseyu21/status/1134097412484730880)
 
 **Livetweet contents**
 
@@ -225,7 +236,8 @@ Austen Novis (Capital One)
 
 [Wasim Hossain](https://twitter.com/wascloud) (TELUS)
 
-[twitter thread](https://twitter.com/cornazano/status/1134097009735086080)
+[twitter thread](https://twitter.com/cornazano/status/1134097009735086080) |
+[MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1134152791755300864)
 
 **Livetweet contents**
 
@@ -264,7 +276,9 @@ Austen Novis (Capital One)
 Bozhidar Lenchov (Pivotal) |
 Jesse Malone (Pivotal)
 
-[twitter thread](https://twitter.com/cornazano/status/1134111665258160128)
+[twitter thread](https://twitter.com/cornazano/status/1134111665258160128) |
+[MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1134155991803711489) |
+[Denise Yu's sketch](https://twitter.com/deniseyu21/status/1134120079166251009)
 
 **Livetweet contents**
 
@@ -292,7 +306,8 @@ Jesse Malone (Pivotal)
 
 [Quintessence Anx](https://twitter.com/QuintessenceAnx) (Logz.io)
 
-[twitter thread](https://twitter.com/cornazano/status/1134120891548360706)
+[twitter thread](https://twitter.com/cornazano/status/1134120891548360706) |
+[MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1134150266612256768)
 
 **Livetweet contents**
 
