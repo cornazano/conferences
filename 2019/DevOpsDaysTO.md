@@ -91,7 +91,7 @@ Other post-conference stuff:
 ## Shortcuts and Scenic Routes: Deconstructing DevOps
 
 Matthew Chum (Genesys) |
-Monti Ghai (Genesys)
+[Monti Ghai](https://twitter.com/montighai) (Genesys)
 
 [twitter thread](https://twitter.com/cornazano/status/1133748028710490112) |
 [MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1133815763175915520)

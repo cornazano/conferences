@@ -21,6 +21,7 @@ The sessions I attended / livetweeted:
 [Dominica DeGrandis](https://twitter.com/dominicad)
 
 [twitter thread](https://twitter.com/cornazano/status/1088443489082322945)
+| [MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1088544295127302144)
 
 **Livetweet contents**
 
@@ -49,6 +50,7 @@ The sessions I attended / livetweeted:
 [Jaclyn Damiano](https://twitter.com/jaclyn_damiano)
 
 [twitter thread](https://twitter.com/cornazano/status/1088453768708907010)
+| [MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1088543435840278528)
 
 **Livetweet contents**
 
@@ -102,7 +104,9 @@ The sessions I attended / livetweeted:
 
 [Quintessence Anx](https://twitter.com/quintessenceanx)
 
-[twitter thread](https://twitter.com/cornazano/status/1088550378512240640)
+[video (DevOpsDays Vancouver, March 29 2019)](https://www.youtube.com/watch?v=IZ5SPRx2Tm4)
+| [slides](https://noti.st/quintessence/KjitaX/sensory-friendly-monitoring-keeping-the-noise-down)
+| [twitter thread](https://twitter.com/cornazano/status/1088550378512240640)
 
 **Livetweet contents**
 
@@ -126,7 +130,9 @@ The sessions I attended / livetweeted:
 
 [Matty Stratton](https://twitter.com/mattstratton)
 
-[twitter thread](https://twitter.com/cornazano/status/1088560247034310656)
+[video (from DevOpsDays Charlotte, February 7 2019)](https://www.youtube.com/watch?v=DJdS48vFV20)
+| [slides](https://speaking.mattstratton.com/z91QcD/fight-flight-or-freeze-releasing-organizational-trauma)
+| [twitter thread](https://twitter.com/cornazano/status/1088560247034310656)
 
 **Livetweet contents**
 
@@ -192,7 +198,10 @@ The sessions I attended / livetweeted:
 
 [Jessica Kerr](https://twitter.com/jessitron)
 
-[twitter thread](https://twitter.com/cornazano/status/1088815335497781250)
+[slides](https://www.dropbox.com/s/5si2tfq75xsbtnj/poca.pdf?dl=0)
+| [twitter thread](https://twitter.com/cornazano/status/1088815335497781250)
+| [MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1088913765838524416)
+| [blog post version](https://blog.atomist.com/principles-of-collaborative-automation/)
 
 **Livetweet contents**
 
@@ -277,6 +286,7 @@ Alex Hidalgo
 [Peter Chestna](https://twitter.com/petechestna)
 
 [twitter thread](https://twitter.com/cornazano/status/1088922101044703233)
+| [MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1090285456762257411)
 
 **Livetweet contents**
 
