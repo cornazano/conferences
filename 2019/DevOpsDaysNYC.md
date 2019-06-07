@@ -20,11 +20,13 @@ The sessions I attended / livetweeted:
 
 [Dominica DeGrandis](https://twitter.com/dominicad)
 
-[MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1088544295127302144)
+[slides](https://speakerdeck.com/dominicad/making-connections-visible-how-to-defrag-your-value-stream-75a2fe2d-e52b-47d4-898f-e3ae4b1c505e)
+| [MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1088544295127302144)
 
 **Twitter thrads:**
 [cornazano (me)](https://twitter.com/cornazano/status/1088443489082322945)
 | [lizthegrey (Liz Fong-Jones)](https://twitter.com/lizthegrey/status/1088439714699460608)
+| [wiredferret (Heidi)](https://twitter.com/wiredferret/status/1088440887003238400)
 
 
 **My livetweet contents**
@@ -87,6 +89,7 @@ The sessions I attended / livetweeted:
 **Twitter thrads:**
 [cornazno (me)](https://twitter.com/cornazano/status/1088473918896250882)
 | [lizthegrey (Liz Fong-Jones)](https://twitter.com/lizthegrey/status/1088472733883793408)
+| [wiredferret (Heidi)](https://twitter.com/wiredferret/status/1088473119990398976)
 
 **My livetweet contents**
 
@@ -228,6 +231,7 @@ The sessions I attended / livetweeted:
 
 **Twitter thrads:**
 [cornazano (me)](https://twitter.com/cornazano/status/1088815335497781250)
+| [wiredferret (Heidi)](https://twitter.com/wiredferret/status/1088815488824676353)
 
 **My livetweet contents**
 
@@ -261,6 +265,7 @@ Rob Boll
 
 **Twitter thrads:**
 [cornazano (me)](https://twitter.com/cornazano/status/1088836404946391042)
+| [wiredferret (Heidi)](https://twitter.com/wiredferret/status/1088836105947017216)
 
 **My livetweet contents**
 
@@ -288,6 +293,8 @@ Alex Hidalgo
 
 **Twitter thrads:**
 [cornazano (me)](https://twitter.com/cornazano/status/1088915684833267713)
+| [lizthegrey (Liz Fong-Jones)](https://twitter.com/lizthegrey/status/1088915428699713537)
+| [wiredferret (Heidi)](https://twitter.com/wiredferret/status/1088915796837978114)
 
 **My livetweet contents**
 
@@ -317,6 +324,7 @@ Alex Hidalgo
 
 **Twitter thrads:**
 [cornazano (me)](https://twitter.com/cornazano/status/1088922101044703233)
+| [wiredferret (Heidi)](https://twitter.com/wiredferret/status/1088922445757796353)
 
 **My livetweet contents**
 

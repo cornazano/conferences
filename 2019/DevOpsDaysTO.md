@@ -24,11 +24,13 @@ Other post-conference stuff:
 
 [Emily Freeman](https://twitter.com/editingemily) (Microsoft)
 
-[twitter thread](https://twitter.com/cornazano/status/1133725021526999040) |
-[MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1133812784838467586) |
-[Denise Yu's sketch](https://twitter.com/deniseyu21/status/1133732734935949314)
+[MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1133812784838467586)
+| [Denise Yu's sketch](https://twitter.com/deniseyu21/status/1133732734935949314)
 
-**Livetweet contents**
+**Twitter thrads:**
+[cornazano (me)](https://twitter.com/cornazano/status/1133725021526999040)
+
+**My livetweet contents**
 
 > First up: @editingemily talking about the experience of writing DevOps for Dummies, and how the creative process parallels our engineering efforts. #DevOpsDaysTO
 
@@ -56,11 +58,13 @@ Other post-conference stuff:
 
 [Courtney Eckhardt](https://twitter.com/hashoctothorpe) (Heroku)
 
-[twitter thread](https://twitter.com/cornazano/status/1133734628299350016) |
-[MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1133817587761111047) |
-[Denise Yu's sketch](https://twitter.com/deniseyu21/status/1133752949468016643)
+[MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1133817587761111047)
+| [Denise Yu's sketch](https://twitter.com/deniseyu21/status/1133752949468016643)
 
-**Livetweet contents**
+**Twitter thrads:**
+[cornazano (me)](https://twitter.com/cornazano/status/1133734628299350016)
+
+**My livetweet contents**
 
 > Next up: Courtney Eckhardt @hashoctothorpe talking about How to Have an Operational Incident. #DevOpsDaysTO
 
@@ -90,13 +94,15 @@ Other post-conference stuff:
 
 ## Shortcuts and Scenic Routes: Deconstructing DevOps
 
-Matthew Chum (Genesys) |
-[Monti Ghai](https://twitter.com/montighai) (Genesys)
+Matthew Chum (Genesys)
+| [Monti Ghai](https://twitter.com/montighai) (Genesys)
 
-[twitter thread](https://twitter.com/cornazano/status/1133748028710490112) |
 [MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1133815763175915520)
 
-**Livetweet contents**
+**Twitter thrads:**
+[cornazano (me)](https://twitter.com/cornazano/status/1133748028710490112)
+
+**My livetweet contents**
 
 > Next up: Matthew Chum and Monti Ghai, Shortcuts and Scenic Routes #DevOpsDaysTO
 
@@ -122,11 +128,13 @@ Matthew Chum (Genesys) |
 
 Austen Novis (Capital One)
 
-[twitter thread](https://twitter.com/cornazano/status/1133757105889062912) |
-[MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1134200215450398720) |
-[Denise Yu's sketch](https://twitter.com/deniseyu21/status/1133800160398630912)
+[MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1134200215450398720)
+| [Denise Yu's sketch](https://twitter.com/deniseyu21/status/1133800160398630912)
 
-**Livetweet contents**
+**Twitter thrads:**
+[cornazano (me)](https://twitter.com/cornazano/status/1133757105889062912)
+
+**My livetweet contents**
 
 > Next up: Austen Novis talking about Just In Time Infrastructure. #DevOpsDaysTO
 
@@ -148,11 +156,13 @@ Austen Novis (Capital One)
 
 [Hany Fahim](https://twitter.com/iHandroid) (VM Farms)
 
-[twitter thread](https://twitter.com/cornazano/status/1133789014618726401) |
-[MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1134159383661809665) |
-[Denise Yu's sketch](https://twitter.com/deniseyu21/status/1133805355958439941)
+[MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1134159383661809665)
+| [Denise Yu's sketch](https://twitter.com/deniseyu21/status/1133805355958439941)
 
-**Livetweet contents**
+**Twitter thrads:**
+[cornazano (me)](https://twitter.com/cornazano/status/1133789014618726401)
+
+**My livetweet contents**
 
 > Last session before open spaces: Hany Fahim @iHandroid presenting on My Favourite Errors. #DevOpsDaysTO
 
@@ -192,11 +202,13 @@ Austen Novis (Capital One)
 
 [Dominica DeGrandis](https://twitter.com/dominicad) (Tasktop)
 
-[twitter thread](https://twitter.com/cornazano/status/1134086511945834496) |
-[MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1134158336419672064) |
-[Denise Yu's sketch](https://twitter.com/deniseyu21/status/1134097412484730880)
+[MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1134158336419672064)
+| [Denise Yu's sketch](https://twitter.com/deniseyu21/status/1134097412484730880)
 
-**Livetweet contents**
+**Twitter thrads:**
+[cornazano (me)](https://twitter.com/cornazano/status/1134086511945834496)
+
+**My livetweet contents**
 
 > Starting off day two, we have Dominica DeGrandis @dominicad talking about Making Connections Visible. #DevOpsDaysTO
 
@@ -236,10 +248,12 @@ Austen Novis (Capital One)
 
 [Wasim Hossain](https://twitter.com/wascloud) (TELUS)
 
-[twitter thread](https://twitter.com/cornazano/status/1134097009735086080) |
 [MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1134152791755300864)
 
-**Livetweet contents**
+**Twitter thrads:**
+[cornazano (me)](https://twitter.com/cornazano/status/1134097009735086080)
+
+**My livetweet contents**
 
 > Next up is Wasim Hossain @wascloud talking about inner source at Telus. #DevOpsDaysTO
 
@@ -273,14 +287,16 @@ Austen Novis (Capital One)
 
 ## Double, Double, Toil and Trouble: SRE transformation through automation and collaboration
 
-Bozhidar Lenchov (Pivotal) |
-Jesse Malone (Pivotal)
+Bozhidar Lenchov (Pivotal)
+| Jesse Malone (Pivotal)
 
-[twitter thread](https://twitter.com/cornazano/status/1134111665258160128) |
-[MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1134155991803711489) |
-[Denise Yu's sketch](https://twitter.com/deniseyu21/status/1134120079166251009)
+[MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1134155991803711489)
+| [Denise Yu's sketch](https://twitter.com/deniseyu21/status/1134120079166251009)
 
-**Livetweet contents**
+**Twitter thrads:**
+[cornazano (me)](https://twitter.com/cornazano/status/1134111665258160128)
+
+**My livetweet contents**
 
 > Next up: Bozhidar Lenchov and Jesse Malone talking about toil and SRE transformation. #DevOpsDaysTO
 
@@ -306,10 +322,12 @@ Jesse Malone (Pivotal)
 
 [Quintessence Anx](https://twitter.com/QuintessenceAnx) (Logz.io)
 
-[twitter thread](https://twitter.com/cornazano/status/1134120891548360706) |
 [MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1134150266612256768)
 
-**Livetweet contents**
+**Twitter thrads:**
+[cornazano (me)](https://twitter.com/cornazano/status/1134120891548360706)
+
+**My livetweet contents**
 
 > Next up: Quintessence Anx @QuintessenceAnx helping us learn to keep the noise down, talking to us about Sensory Friendly Monitoring. #DevOpsDaysTO
 
@@ -329,9 +347,12 @@ Jesse Malone (Pivotal)
 
 [Jacquelyne Grindrod](https://twitter.com/devopsjacquie) (Medstack)
 
-[twitter thread](https://twitter.com/cornazano/status/1134150533399371776)
+[slides](https://noti.st/devopsjacquie/uScDZq)
 
-**Livetweet contents**
+**Twitter thrads:**
+[cornazano (me)](https://twitter.com/cornazano/status/1134150533399371776)
+
+**My livetweet contents**
 
 > The last session of the main track: Jacquelyne Grindrod talking to us about the Journey to the Promised land. #DevOpsDaysTO
 
