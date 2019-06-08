@@ -22,25 +22,25 @@ Other materials:
 
 ## <a name="croll"></a> Innovation, Disruption, and Discontinuity: Technology Isn't Interesting
 
-Alistair Croll
+[Alistair Croll](https://twitter.com/acroll)
 
 [video](https://www.youtube.com/watch?v=BjcvGzrSH5E)
 
 ## <a name="proulx"></a> Shaky to Solid: A Test-Based Approach to Legacy Code
 
-Catherine Proulx
+[Catherine Proulx](https://twitter.com/cproulx_softdev)
 
 [video](https://www.youtube.com/watch?v=zhbUmCdYdvc)
 
 ## <a name="yee"></a> Burnout: Community Problem & Community Solution
 
-Jason Yee
+[Jason Yee](https://twitter.com/gitbisect)
 
 [video](https://www.youtube.com/watch?v=TvsaP49UloA)
 
 ## <a name="shubin"></a> Next Generation Config Mgmt: The Language
 
-James Shubin
+[James Shubin](https://twitter.com/purpleidea)
 
 [video](https://www.youtube.com/watch?v=1i38c5cooHo)
 
@@ -54,25 +54,25 @@ Lenore Adam
 
 ## <a name="koffler"></a> DevOps in a CyberPhysical World
 
-Daniel Koffler
+[Daniel Koffler](https://twitter.com/dkoffler)
 
 [video](https://www.youtube.com/watch?v=OPGR35itJoo)
 
 ## <a name="hooper"></a> Everything I Need to Know, I Learned in Tanzania
 
-Adam Hooper
+[Adam Hooper](https://twitter.com/adamhooper)
 
 [video](https://www.youtube.com/watch?v=iMHgHTiaaAs)
 
 ## <a name="gervais"></a> Étouffez-vous ? Un cas d’API Gateway
 
-Alex Gervais
+[Alex Gervais](https://twitter.com/alex_gervais)
 
 [video](https://www.youtube.com/watch?v=agh3uf3te54)
 
 ## <a name="hurkens"></a> Implementing DevOps in an International Multi-Cultural and Multi-Geography Environment
 
-Jesse Hurkens
+[Jesse Hurkens](https://twitter.com/jhurkens)
 
 [video](https://www.youtube.com/watch?v=vuVUqifJick)
 
