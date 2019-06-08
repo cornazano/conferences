@@ -1,6 +1,6 @@
 # DevOpsDays New York City 2019
 
-The sessions I attended / livetweeted:
+The talks:
 
 * [Dominica DeGrandis — Making Connections Visible: How to Defrag your Value Stream](#degrandis)
 * [Jaclyn Damiano — The X Factor: Making Women Visible](#damiano)
@@ -12,6 +12,10 @@ The sessions I attended / livetweeted:
 * [Rob Boll — Kubernetes at Datadog: The Very Hard Way](#boll)
 * [Alex Hidalgo — Developing Meaningful SLIs for Fun and Profit](#hidalgo)
 * [Peter Chestna — This Lane Ends: Shifting Security Left](#chestna)
+
+Other materials:
+
+* [event website](https://devopsdays.org/events/2019-new-york-city/welcome/)
 
 
 # Day 1: Thursday 2019-01-24

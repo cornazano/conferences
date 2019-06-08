@@ -1,6 +1,6 @@
 # DevOpsDays Toronto 2019
 
-The sessions I attended / livetweeted:
+The talks:
 
 * [Emily Freeman — Drafting Success](#freeman)
 * [Courtney Eckhardt — How to Have an Operational Incident (A Crash Course)](#eckhardt)
@@ -13,9 +13,12 @@ The sessions I attended / livetweeted:
 * [Quintessence Anx — Sensory Friendly Monitoring: Keeping the Noise Down](#anx)
 * [Jacquelyne Grindrod — Journey to the Promised Land](#grindrod)
 
-Other post-conference stuff:
+Other materials:
 
+* [event website](https://devopsdays.org/events/2019-toronto/welcome/)
 * [Michael McCliment — Value Stream Mapping References (DevOpsDays Toronto 2019)](https://medium.com/@cornazano/value-stream-mapping-references-devopsdays-toronto-2019-ffe116e7ca8a)
+* [Steve Pereira — DevOps Days Toronto 2019 Illustrations](https://photos.app.goo.gl/RaTkxqDDb4FgYHJD7)
+* [Steve Pereira — DevOps Days Toronto 2019 Day 1 (photos)](https://photos.app.goo.gl/ZenCKYS3TLxTgSH38)
 
 
 # Day 1: Wednesday 2019-05-29

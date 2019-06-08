@@ -1,6 +1,6 @@
 # DevOps Enterprise Summit 2018
 
-The sessions I attended / livetweeted:
+The talks:
 
 * [Anne Bradley & Courtney Kissler — Build a Bigger Team](#bradley-kissler)
 * [Brian Clark & Scott Prugh — Product Management Meets DevOps](#clark-prugh)
