@@ -2,16 +2,16 @@
 
 The sessions I attended / livetweeted:
 
-* [Emily Freeman — Drafting Success](#drafting-success)
-* [Courtney Eckhardt — How to Have an Operational Incident (A Crash Course)](#how-to-have-an-operational-incident)
-* [Matthew Chum & Monti Ghai — Shortcuts and Scenic Routes: Deconstructing DevOps](#shortcuts-and-scenic-routes-deconstructing-devops)
-* [Austen Novis — Just in Time Cloud Infrastructure: Redefining the Relationship Between Applications and Cloud Infrastructure](#just-in-time-cloud-infrastructure-redefining-the-relationship-between-applications-and-cloud-infrastructure)
-* [Hany Fahim — My Favourite Errors](#my-favourite-errors)
-* [Dominica DeGrandis — Making Connections Visible: How To Defrag Your Value Stream](#making-connections-visible-how-to-defrag-your-value-stream)
-* [Wasim Hossain — Inner Source: How TELUS is Adopting Open-Source Practices to Solve Problems of Scale, and how you can too.](#inner-source-how-telus-is-adopting-open-source-practices-to-solve-problems-of-scale-and-how-you-can-too)
-* [Bozhidar Lenchov & Jesse Malone — Double, Double, Toil and Trouble: SRE transformation through automation and collaboration](#double-double-toil-and-trouble-sre-transformation-through-automation-and-collaboration)
-* [Quintessence Anx — Sensory Friendly Monitoring: Keeping the Noise Down](#sensory-friendly-monitoring-keeping-the-noise-down)
-* [Jacquelyne Grindrod — Journey to the Promised Land](#journey-to-the-promised-land)
+* [Emily Freeman — Drafting Success](#freeman)
+* [Courtney Eckhardt — How to Have an Operational Incident (A Crash Course)](#eckhardt)
+* [Matthew Chum & Monti Ghai — Shortcuts and Scenic Routes: Deconstructing DevOps](#chum-ghai)
+* [Austen Novis — Just in Time Cloud Infrastructure: Redefining the Relationship Between Applications and Cloud Infrastructure](#novis)
+* [Hany Fahim — My Favourite Errors](#fahim)
+* [Dominica DeGrandis — Making Connections Visible: How To Defrag Your Value Stream](#degrandis)
+* [Wasim Hossain — Inner Source: How TELUS is Adopting Open-Source Practices to Solve Problems of Scale, and how you can too.](#hossain)
+* [Bozhidar Lenchov & Jesse Malone — Double, Double, Toil and Trouble: SRE transformation through automation and collaboration](#lenchov-malone)
+* [Quintessence Anx — Sensory Friendly Monitoring: Keeping the Noise Down](#anx)
+* [Jacquelyne Grindrod — Journey to the Promised Land](#grindrod)
 
 Other post-conference stuff:
 
@@ -20,7 +20,7 @@ Other post-conference stuff:
 
 # Day 1: Wednesday 2019-05-29
 
-## Drafting Success
+## <a name="freeman"></a> Drafting Success
 
 [Emily Freeman](https://twitter.com/editingemily) (Microsoft)
 
@@ -54,7 +54,7 @@ Other post-conference stuff:
 
 > It is not actually tech at the heart of DevOps. It is humans. It is you. #DevOpsDaysTO
 
-## How to Have an Operational Incident (A Crash Course)
+## <a name="eckhardt"></a> How to Have an Operational Incident (A Crash Course)
 
 [Courtney Eckhardt](https://twitter.com/hashoctothorpe) (Heroku)
 
@@ -92,7 +92,7 @@ Other post-conference stuff:
 
 > Training needs to be offered to all engineers. Even if they won't be an incident commander, it will help them understand what to expect from the commander and why they are asking the questions they do. #DevOpsDaysTO
 
-## Shortcuts and Scenic Routes: Deconstructing DevOps
+## <a name="chum-ghai"></a> Shortcuts and Scenic Routes: Deconstructing DevOps
 
 Matthew Chum (Genesys)
 | [Monti Ghai](https://twitter.com/montighai) (Genesys)
@@ -124,7 +124,7 @@ Matthew Chum (Genesys)
 
 > We cannot just ignore the value of our legacy systems; we also can't use it as an excuse for avoiding the use of modern practices. We need balance: festina lente (make haste slowly). #DevOpsDaysTO
 
-## Just in Time Cloud Infrastructure: Redefining the Relationship Between Applications and Cloud Infrastructure
+## <a name="novis"></a> Just in Time Cloud Infrastructure: Redefining the Relationship Between Applications and Cloud Infrastructure
 
 Austen Novis (Capital One)
 
@@ -152,7 +152,7 @@ Austen Novis (Capital One)
 
 > The approach also facilitates developer's ability to work, since they can more easily spin up properly configured environments to experiment with their work. #DevOpsDaysTO
 
-## My Favourite Errors
+## <a name="fahim"></a> My Favourite Errors
 
 [Hany Fahim](https://twitter.com/iHandroid) (VM Farms)
 
@@ -198,7 +198,7 @@ Austen Novis (Capital One)
 
 # Day 2: Thursday 2019-05-29
 
-## Making Connections Visible: How To Defrag Your Value Stream
+## <a name="degrandis"></a> Making Connections Visible: How To Defrag Your Value Stream
 
 [Dominica DeGrandis](https://twitter.com/dominicad) (Tasktop)
 
@@ -244,7 +244,7 @@ Austen Novis (Capital One)
 
 > Value stream canvas exercises can help us to determine where the bottlenecks are in our value stream. #DevOpsDaysTO
 
-## Inner Source: How TELUS is Adopting Open-Source Practices to Solve Problems of Scale, and how you can too.
+## <a name="hossain"></a> Inner Source: How TELUS is Adopting Open-Source Practices to Solve Problems of Scale, and how you can too.
 
 [Wasim Hossain](https://twitter.com/wascloud) (TELUS)
 
@@ -285,7 +285,7 @@ Austen Novis (Capital One)
 >
 > #DevOpsDaysTO
 
-## Double, Double, Toil and Trouble: SRE transformation through automation and collaboration
+## <a name="lenchov-malone"></a> Double, Double, Toil and Trouble: SRE transformation through automation and collaboration
 
 Bozhidar Lenchov (Pivotal)
 | Jesse Malone (Pivotal)
@@ -318,7 +318,7 @@ Bozhidar Lenchov (Pivotal)
 
 > Cultural change comes from the bottom up. It does not work through command and control dictates. "Culture eats strategy for breakfast." (Drucker) #DevOpsDaysTO
 
-## Sensory Friendly Monitoring: Keeping the Noise Down
+## <a name="anx"></a> Sensory Friendly Monitoring: Keeping the Noise Down
 
 [Quintessence Anx](https://twitter.com/QuintessenceAnx) (Logz.io)
 
@@ -343,7 +343,7 @@ Bozhidar Lenchov (Pivotal)
 
 > Two important points: redundancy and housekeeping are needed. We don't want to lose visibility if a single source fails. We also don't want irrelevant alerts, they just encourage us to ignore our sources of information. #DevOpsDaysTO
 
-## Journey to the Promised Land
+## <a name="grindrod"></a> Journey to the Promised Land
 
 [Jacquelyne Grindrod](https://twitter.com/devopsjacquie) (Medstack)
 
