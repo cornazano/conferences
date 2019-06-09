@@ -10,7 +10,7 @@
 
 * [DevOps Enterprise Summit (October 22-24, Las Vegas)](2018/DevOpsEnterpriseSummitUSA.md)
 * [DevOpsDays Montreal (October 10-11, Montreal)](2018/DevOpsDaysMTL.md)
-* DevOpsDays Toronto (May 30-31, Toronto)
+* [DevOpsDays Toronto (May 30-31, Toronto)](2018/DevOpsDaysTO.md)
 
 ## 2017
 
