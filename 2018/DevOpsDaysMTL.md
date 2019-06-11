@@ -1,5 +1,7 @@
 # DevOpsDays Montreal 2018
 
+October 10-11, 2018 — Montréal, Québec, Canada
+
 The talks:
 
 * [Alistair Croll — Innovation, Disruption, and Discontinuity: Technology Isn't Interesting](#croll)

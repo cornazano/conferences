@@ -1,5 +1,7 @@
 # DevOpsDays New York City 2019
 
+January 24-25, 2019 — New York, New York, United States
+
 The talks:
 
 * [Dominica DeGrandis — Making Connections Visible: How to Defrag your Value Stream](#degrandis)

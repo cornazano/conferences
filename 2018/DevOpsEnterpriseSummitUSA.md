@@ -1,5 +1,7 @@
 # DevOps Enterprise Summit 2018
 
+October 22-24, 2018 — Las Vegas, Nevada, United States
+
 The talks:
 
 * [Anne Bradley & Courtney Kissler — Build a Bigger Team](#bradley-kissler)

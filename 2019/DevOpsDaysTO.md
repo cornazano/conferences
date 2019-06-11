@@ -1,5 +1,7 @@
 # DevOpsDays Toronto 2019
 
+May 29-30, 2019 — Toronto, Ontario, Canada
+
 The talks:
 
 * [Emily Freeman — Drafting Success](#freeman)

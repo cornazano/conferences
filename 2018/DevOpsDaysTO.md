@@ -1,5 +1,7 @@
 # DevOpsDays Toronto 2018
 
+May 30-31, 2018 — Toronto, Ontario, Canada
+
 The talks:
 
 * [Steve Pereira — DevOpsDaysTO Year 5, DevOps Year 10](#pereira) 
