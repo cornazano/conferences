@@ -4,16 +4,16 @@ January 24-25, 2019 — New York, New York, United States
 
 The talks:
 
-* [Dominica DeGrandis — Making Connections Visible: How to Defrag your Value Stream](#degrandis)
-* [Jaclyn Damiano — The X Factor: Making Women Visible](#damiano)
-* [Gaurav Gargate — Steel Thread approach to building large scale architectures](#gargate)
 * [Quintessence Anx — Sensory Friendly Monitoring: Keeping the Noise Down](#anx)
-* [Matty Stratton — Fight, Flight, or Freeze — Releasing Organizational Trauma](#stratton)
-* [Liz Fong-Jones — Organizing for Your Ethical Principles](#fong-jones)
-* [Jessica Kerr — Principles of Collaborative Automation](#kerr)
 * [Rob Boll — Kubernetes at Datadog: The Very Hard Way](#boll)
-* [Alex Hidalgo — Developing Meaningful SLIs for Fun and Profit](#hidalgo)
 * [Peter Chestna — This Lane Ends: Shifting Security Left](#chestna)
+* [Jaclyn Damiano — The X Factor: Making Women Visible](#damiano)
+* [Dominica DeGrandis — Making Connections Visible: How to Defrag your Value Stream](#degrandis)
+* [Liz Fong-Jones — Organizing for Your Ethical Principles](#fong-jones)
+* [Gaurav Gargate — Steel Thread approach to building large scale architectures](#gargate)
+* [Alex Hidalgo — Developing Meaningful SLIs for Fun and Profit](#hidalgo)
+* [Jessica Kerr — Principles of Collaborative Automation](#kerr)
+* [Matty Stratton — Fight, Flight, or Freeze — Releasing Organizational Trauma](#stratton)
 
 Other materials:
 

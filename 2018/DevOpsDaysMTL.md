@@ -4,16 +4,16 @@ October 10-11, 2018 — Montréal, Québec, Canada
 
 The talks:
 
-* [Alistair Croll — Innovation, Disruption, and Discontinuity: Technology Isn't Interesting](#croll)
-* [Catherine Proulx — Shaky to Solid: A Test-Based Approach to Legacy Code](#proulx)
-* [Jason Yee — Burnout: Community Problem & Community Solution](#yee)
-* [James Shubin — Next Generation Config Mgmt: The Language](#shubin)
 * [Lenore Adam — Evolve Your CD Practices from Controlled Rollouts to Controlled Experiments](#adam)
-* [Daniel Koffler — DevOps in a CyberPhysical World](#koffler)
-* [Adam Hooper — Everything I Need to Know, I Learned in Tanzania](#hooper)
+* [Alistair Croll — Innovation, Disruption, and Discontinuity: Technology Isn't Interesting](#croll)
 * [Alex Gervais — Étouffez-vous ? Un cas d’API Gateway](#gervais)
+* [Adam Hooper — Everything I Need to Know, I Learned in Tanzania](#hooper)
 * [Jesse Hurkens — Implementing DevOps in an International Multi-Cultural and Multi-Geography Environment](#hurkens)
+* [Daniel Koffler — DevOps in a CyberPhysical World](#koffler)
 * [Tsvi Korren — Security Considerations for Containers as a Service (CaaS) and Serverless Architectures](#korren)
+* [Catherine Proulx — Shaky to Solid: A Test-Based Approach to Legacy Code](#proulx)
+* [James Shubin — Next Generation Config Mgmt: The Language](#shubin)
+* [Jason Yee — Burnout: Community Problem & Community Solution](#yee)
 
 Other materials:
 

@@ -4,16 +4,16 @@ May 29-30, 2019 — Toronto, Ontario, Canada
 
 The talks:
 
-* [Emily Freeman — Drafting Success](#freeman)
-* [Courtney Eckhardt — How to Have an Operational Incident (A Crash Course)](#eckhardt)
+* [Quintessence Anx — Sensory Friendly Monitoring: Keeping the Noise Down](#anx)
 * [Matthew Chum & Monti Ghai — Shortcuts and Scenic Routes: Deconstructing DevOps](#chum-ghai)
-* [Austen Novis — Just in Time Cloud Infrastructure: Redefining the Relationship Between Applications and Cloud Infrastructure](#novis)
-* [Hany Fahim — My Favourite Errors](#fahim)
 * [Dominica DeGrandis — Making Connections Visible: How To Defrag Your Value Stream](#degrandis)
+* [Courtney Eckhardt — How to Have an Operational Incident (A Crash Course)](#eckhardt)
+* [Hany Fahim — My Favourite Errors](#fahim)
+* [Emily Freeman — Drafting Success](#freeman)
+* [Jacquelyne Grindrod — Journey to the Promised Land](#grindrod)
 * [Wasim Hossain — Inner Source: How TELUS is Adopting Open-Source Practices to Solve Problems of Scale, and how you can too.](#hossain)
 * [Bozhidar Lenchov & Jesse Malone — Double, Double, Toil and Trouble: SRE transformation through automation and collaboration](#lenchov-malone)
-* [Quintessence Anx — Sensory Friendly Monitoring: Keeping the Noise Down](#anx)
-* [Jacquelyne Grindrod — Journey to the Promised Land](#grindrod)
+* [Austen Novis — Just in Time Cloud Infrastructure: Redefining the Relationship Between Applications and Cloud Infrastructure](#novis)
 
 Other materials:
 
@@ -21,6 +21,7 @@ Other materials:
 * [Michael McCliment — Value Stream Mapping References (DevOpsDays Toronto 2019)](https://medium.com/@cornazano/value-stream-mapping-references-devopsdays-toronto-2019-ffe116e7ca8a)
 * [Steve Pereira — DevOps Days Toronto 2019 Illustrations](https://photos.app.goo.gl/RaTkxqDDb4FgYHJD7)
 * [Steve Pereira — DevOps Days Toronto 2019 Day 1 (photos)](https://photos.app.goo.gl/ZenCKYS3TLxTgSH38)
+* [STeve Pereira — DevOps Days Toronto 2019 Day 2 (photos)](https://photos.app.goo.gl/1B8RtnWfas2fau6z9)
 
 
 # Day 1: Wednesday 2019-05-29

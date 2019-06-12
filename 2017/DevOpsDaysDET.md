@@ -4,16 +4,16 @@ September 27-28, 2017
 
 The talks:
 
-* [Richard I. Cook, M.D. — Day 1 Opening Keynote](#cook)
-* [Amin Yazdani — Psychology of Estimation: Faster is not always better](#yazdani)
-* [Avleen Vig — Adding and retiring technologies in your stack](#vig)
-* [Chris Van Tuin — A DevOps State of Mind with Microservices + Containers + Kubernetes](#van-tuin)
-* [Rebecca Fitzhugh — We Should All Be Leaders](#fitzhugh)
-* [Mike Rother — Day 2 Opening Keynote](#rother)
-* [Archie Cowan — A tour of the JSTOR micro-services analytics data pipeline](#cowan)
-* [Gene Kim, Richard I. Cook, M.D., Mike Rother, John Willis — Devops, Safety, and Lean - Panel Discussion](#kim-cook-rother-willis)
 * [Barbara Bouldin — One Woman's Experience as the Software Industry has Evolved](#bouldin)
+* [Richard I. Cook, M.D. — Day 1 Opening Keynote](#cook)
+* [Archie Cowan — A tour of the JSTOR micro-services analytics data pipeline](#cowan)
 * [Julian Dunn — Distributed systems are hard. Distributed systems of people are harder](#dunn)
+* [Rebecca Fitzhugh — We Should All Be Leaders](#fitzhugh)
+* [Gene Kim, Richard I. Cook, M.D., Mike Rother, John Willis — Devops, Safety, and Lean - Panel Discussion](#kim-cook-rother-willis)
+* [Mike Rother — Day 2 Opening Keynote](#rother)
+* [Chris Van Tuin — A DevOps State of Mind with Microservices + Containers + Kubernetes](#van-tuin)
+* [Avleen Vig — Adding and retiring technologies in your stack](#vig)
+* [Amin Yazdani — Psychology of Estimation: Faster is not always better](#yazdani)
 
 Other materials:
 

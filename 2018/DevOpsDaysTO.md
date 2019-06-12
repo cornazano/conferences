@@ -4,16 +4,16 @@ May 30-31, 2018 — Toronto, Ontario, Canada
 
 The talks:
 
+* [John Arthorne — Black Friday: Lessons in Resiliency and Incident Response at Shopify](#arthorne) 
+* [Nicole Forsgren, Jez Humble — Tools Won’t Fix Your Broken DevOps](#forsgren-humble) 
+* [Emily Freeman — This IS NOT Fine: Putting Out (Code) Fires](#freeman) 
+* [Jonathan Le Lous, Thibault Cohen — DevOps & Insurance Company: Create a Bridge Between Security and Change](#lelous-cohen) 
 * [Steve Pereira — DevOpsDaysTO Year 5, DevOps Year 10](#pereira) 
-* [Shawn Sterling, Nan Jiang — Unleashing the Gorillacorn – DevOps in Very Large Enterprises](#sterling-jiang) 
 * [Catherine Proulx — Shaky to Solid: A Test-Based Approach to Legacy Code](#proulx) 
 * [Chris Short — What the Military Taught Me about DevOps](#short) 
-* [Emily Freeman — This IS NOT Fine: Putting Out (Code) Fires](#freeman) 
-* [Nicole Forsgren, Jez Humble — Tools Won’t Fix Your Broken DevOps](#forsgren-humble) 
-* [John Arthorne — Black Friday: Lessons in Resiliency and Incident Response at Shopify](#arthorne) 
-* [Jason Yee, Elijah Andrews, Rachel Lo — DevOps: The Next Generation](#yee-andrews-lo) 
+* [Shawn Sterling, Nan Jiang — Unleashing the Gorillacorn – DevOps in Very Large Enterprises](#sterling-jiang) 
 * [Heidi Waterhouse — Choose Your Own Deployment: Interactive Feature Flag Adventure](#waterhouse) 
-* [Jonathan Le Lous, Thibault Cohen — DevOps & Insurance Company: Create a Bridge Between Security and Change](#lelous-cohen) 
+* [Jason Yee, Elijah Andrews, Rachel Lo — DevOps: The Next Generation](#yee-andrews-lo) 
 
 Other materials:
 
