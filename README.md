@@ -19,7 +19,7 @@
 
 ## 2016
 
-* DevOps Enterprise Summit (November 8-10, San Francisco)
+* [DevOps Enterprise Summit (November 8-10, San Francisco)](2016/DevOpsEnterpriseSummit.md)
 
 ## 2014
 
