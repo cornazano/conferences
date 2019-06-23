@@ -18,10 +18,11 @@ The talks:
 Other materials:
 
 * [event website](https://devopsdays.org/events/2019-toronto/welcome/)
+* [Michael McCliment — Remote-First Work: Open spaces discussion at DevOpsDays Toronto 2019](https://medium.com/@cornazano/remote-first-work-open-spaces-discussion-at-devopsdays-toronto-2019-dfe104fb95be)
 * [Michael McCliment — Value Stream Mapping References (DevOpsDays Toronto 2019)](https://medium.com/@cornazano/value-stream-mapping-references-devopsdays-toronto-2019-ffe116e7ca8a)
-* [Steve Pereira — DevOps Days Toronto 2019 Illustrations](https://photos.app.goo.gl/RaTkxqDDb4FgYHJD7)
 * [Steve Pereira — DevOps Days Toronto 2019 Day 1 (photos)](https://photos.app.goo.gl/ZenCKYS3TLxTgSH38)
 * [STeve Pereira — DevOps Days Toronto 2019 Day 2 (photos)](https://photos.app.goo.gl/1B8RtnWfas2fau6z9)
+* [Steve Pereira — DevOps Days Toronto 2019 Illustrations](https://photos.app.goo.gl/RaTkxqDDb4FgYHJD7)
 
 
 # Day 1: Wednesday 2019-05-29
