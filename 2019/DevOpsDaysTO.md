@@ -31,7 +31,8 @@ Other materials:
 
 [Emily Freeman](https://twitter.com/editingemily) (Microsoft)
 
-[MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1133812784838467586)
+[video](https://www.youtube.com/watch?v=RG4hVKFmMxQ)
+| [MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1133812784838467586)
 | [Denise Yu's sketch](https://twitter.com/deniseyu21/status/1133732734935949314)
 
 **Twitter thrads:**
@@ -65,7 +66,8 @@ Other materials:
 
 [Courtney Eckhardt](https://twitter.com/hashoctothorpe) (Heroku)
 
-[MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1133817587761111047)
+[video](https://www.youtube.com/watch?v=yOg34Jh2vr8)
+| [MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1133817587761111047)
 | [Denise Yu's sketch](https://twitter.com/deniseyu21/status/1133752949468016643)
 
 **Twitter thrads:**
@@ -104,7 +106,8 @@ Other materials:
 Matthew Chum (Genesys)
 | [Monti Ghai](https://twitter.com/montighai) (Genesys)
 
-[MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1133815763175915520)
+[video](https://www.youtube.com/watch?v=p3PMAotuJhk)
+| [MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1133815763175915520)
 
 **Twitter thrads:**
 [cornazano (me)](https://twitter.com/cornazano/status/1133748028710490112)
@@ -135,7 +138,8 @@ Matthew Chum (Genesys)
 
 Austen Novis (Capital One)
 
-[MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1134200215450398720)
+[video](https://www.youtube.com/watch?v=DaHL2itWZeg)
+| [MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1134200215450398720)
 | [Denise Yu's sketch](https://twitter.com/deniseyu21/status/1133800160398630912)
 
 **Twitter thrads:**
@@ -163,7 +167,8 @@ Austen Novis (Capital One)
 
 [Hany Fahim](https://twitter.com/iHandroid) (VM Farms)
 
-[MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1134159383661809665)
+[video](https://www.youtube.com/watch?v=QPk1zC4AmB0)
+| [MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1134159383661809665)
 | [Denise Yu's sketch](https://twitter.com/deniseyu21/status/1133805355958439941)
 
 **Twitter thrads:**
