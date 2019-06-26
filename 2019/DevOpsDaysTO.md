@@ -31,8 +31,18 @@ Other materials:
 
 [Emily Freeman](https://twitter.com/editingemily) (Microsoft)
 
-[video](https://www.youtube.com/watch?v=RG4hVKFmMxQ)
-| [MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1133812784838467586)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=RG4hVKFmMxQ" target="_blank">
+<img
+  src="http://img.youtube.com/vi/RG4hVKFmMxQ/0.jpg"
+  alt="Drafting Success video."
+  width="240"
+  height="180"
+  border="10"
+/>
+</a>
+
+**Other materials:**
+[MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1133812784838467586)
 | [Denise Yu's sketch](https://twitter.com/deniseyu21/status/1133732734935949314)
 
 **Twitter thrads:**
@@ -66,8 +76,18 @@ Other materials:
 
 [Courtney Eckhardt](https://twitter.com/hashoctothorpe) (Heroku)
 
-[video](https://www.youtube.com/watch?v=yOg34Jh2vr8)
-| [MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1133817587761111047)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=yOg34Jh2vr8" target="_blank">
+<img
+  src="http://img.youtube.com/vi/yOg34Jh2vr8/0.jpg"
+  alt="How To Have An Operational Incident video."
+  width="240"
+  height="180"
+  border="10"
+/>
+</a>
+
+**Other materials:**
+[MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1133817587761111047)
 | [Denise Yu's sketch](https://twitter.com/deniseyu21/status/1133752949468016643)
 
 **Twitter thrads:**
@@ -106,8 +126,18 @@ Other materials:
 Matthew Chum (Genesys)
 | [Monti Ghai](https://twitter.com/montighai) (Genesys)
 
-[video](https://www.youtube.com/watch?v=p3PMAotuJhk)
-| [MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1133815763175915520)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=p3PMAotuJhk" target="_blank">
+<img
+  src="http://img.youtube.com/vi/p3PMAotuJhk/0.jpg"
+  alt="Shortcuts And Scenic Routes video."
+  width="240"
+  height="180"
+  border="10"
+/>
+</a>
+
+**Other materials:**
+[MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1133815763175915520)
 
 **Twitter thrads:**
 [cornazano (me)](https://twitter.com/cornazano/status/1133748028710490112)
@@ -138,8 +168,18 @@ Matthew Chum (Genesys)
 
 Austen Novis (Capital One)
 
-[video](https://www.youtube.com/watch?v=DaHL2itWZeg)
-| [MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1134200215450398720)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=DaHL2itWZeg" target="_blank">
+<img
+  src="http://img.youtube.com/vi/DaHL2itWZeg/0.jpg"
+  alt="Just In Time Cloud Infrastructure video."
+  width="240"
+  height="180"
+  border="10"
+/>
+</a>
+
+**Other materials:**
+[MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1134200215450398720)
 | [Denise Yu's sketch](https://twitter.com/deniseyu21/status/1133800160398630912)
 
 **Twitter thrads:**
@@ -167,8 +207,18 @@ Austen Novis (Capital One)
 
 [Hany Fahim](https://twitter.com/iHandroid) (VM Farms)
 
-[video](https://www.youtube.com/watch?v=QPk1zC4AmB0)
-| [MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1134159383661809665)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=QPk1zC4AmB0" target="_blank">
+<img
+  src="http://img.youtube.com/vi/QPk1zC4AmB0/0.jpg"
+  alt="My Favourite Errors video."
+  width="240"
+  height="180"
+  border="10"
+/>
+</a>
+
+**Other materials:**
+[MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1134159383661809665)
 | [Denise Yu's sketch](https://twitter.com/deniseyu21/status/1133805355958439941)
 
 **Twitter thrads:**
@@ -214,6 +264,17 @@ Austen Novis (Capital One)
 
 [Dominica DeGrandis](https://twitter.com/dominicad) (Tasktop)
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=P1iFAnGb0AM" target="_blank">
+<img
+  src="http://img.youtube.com/vi/P1iFAnGb0AM/0.jpg"
+  alt="Making Connections Visible video."
+  width="240"
+  height="180"
+  border="10"
+/>
+</a>
+
+**Other materials:**
 [MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1134158336419672064)
 | [Denise Yu's sketch](https://twitter.com/deniseyu21/status/1134097412484730880)
 
@@ -260,6 +321,17 @@ Austen Novis (Capital One)
 
 [Wasim Hossain](https://twitter.com/wascloud) (TELUS)
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=VNBs7s_Q4EI" target="_blank">
+<img
+  src="http://img.youtube.com/vi/VNBs7s_Q4EI/0.jpg"
+  alt="Inner Source video."
+  width="240"
+  height="180"
+  border="10"
+/>
+</a>
+
+**Other materials:**
 [MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1134152791755300864)
 
 **Twitter thrads:**
@@ -302,6 +374,17 @@ Austen Novis (Capital One)
 Bozhidar Lenchov (Pivotal)
 | Jesse Malone (Pivotal)
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=AM1THK7up74" target="_blank">
+<img
+  src="http://img.youtube.com/vi/AM1THK7up74/0.jpg"
+  alt="Double, Double, Toil And Trouble video."
+  width="240"
+  height="180"
+  border="10"
+/>
+</a>
+
+**Other materials:**
 [MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1134155991803711489)
 | [Denise Yu's sketch](https://twitter.com/deniseyu21/status/1134120079166251009)
 
@@ -334,6 +417,17 @@ Bozhidar Lenchov (Pivotal)
 
 [Quintessence Anx](https://twitter.com/QuintessenceAnx) (Logz.io)
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=G8VUP8PQqRo" target="_blank">
+<img
+  src="http://img.youtube.com/vi/G8VUP8PQqRo/0.jpg"
+  alt="Sensory Friendly Monitoring video."
+  width="240"
+  height="180"
+  border="10"
+/>
+</a>
+
+**Other materials:**
 [MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1134150266612256768)
 
 **Twitter thrads:**
@@ -359,6 +453,17 @@ Bozhidar Lenchov (Pivotal)
 
 [Jacquelyne Grindrod](https://twitter.com/devopsjacquie) (Medstack)
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=xRwm9IPXG6k" target="_blank">
+<img
+  src="http://img.youtube.com/vi/xRwm9IPXG6k/0.jpg"
+  alt="Journey To The Promised Land video."
+  width="240"
+  height="180"
+  border="10"
+/>
+</a>
+
+**Other materials:**
 [slides](https://noti.st/devopsjacquie/uScDZq)
 
 **Twitter thrads:**
