@@ -21,7 +21,7 @@ Other materials:
 * [Michael McCliment — Remote-First Work: Open spaces discussion at DevOpsDays Toronto 2019](https://medium.com/@cornazano/remote-first-work-open-spaces-discussion-at-devopsdays-toronto-2019-dfe104fb95be)
 * [Michael McCliment — Value Stream Mapping References (DevOpsDays Toronto 2019)](https://medium.com/@cornazano/value-stream-mapping-references-devopsdays-toronto-2019-ffe116e7ca8a)
 * [Steve Pereira — DevOps Days Toronto 2019 Day 1 (photos)](https://photos.app.goo.gl/ZenCKYS3TLxTgSH38)
-* [STeve Pereira — DevOps Days Toronto 2019 Day 2 (photos)](https://photos.app.goo.gl/1B8RtnWfas2fau6z9)
+* [Steve Pereira — DevOps Days Toronto 2019 Day 2 (photos)](https://photos.app.goo.gl/1B8RtnWfas2fau6z9)
 * [Steve Pereira — DevOps Days Toronto 2019 Illustrations](https://photos.app.goo.gl/RaTkxqDDb4FgYHJD7)
 
 
@@ -85,19 +85,28 @@ Other materials:
 
 [Courtney Eckhardt](https://twitter.com/hashoctothorpe) (Heroku)
 
+> Sketchnote by [Denise Yu](http://www.deniseyu.io/art).
+> Included from [here](https://twitter.com/deniseyu21/status/1133752949468016643),
+> unmodified, under the terms of
+> [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<img
+  src="../images/denise-yu-devopsdays-to-eckhardt.jpg"
+  alt="Sketchnote by Denise Yu."
+  align="right"
+  width="40%"
+/>
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=yOg34Jh2vr8" target="_blank">
 <img
   src="http://img.youtube.com/vi/yOg34Jh2vr8/0.jpg"
   alt="How To Have An Operational Incident video."
-  width="240"
-  height="180"
-  border="10"
+  width="40%"
 />
 </a>
 
 **Other materials:**
 [MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1133817587761111047)
-| [Denise Yu's sketch](https://twitter.com/deniseyu21/status/1133752949468016643)
 
 **Twitter thrads:**
 [cornazano (me)](https://twitter.com/cornazano/status/1133734628299350016)
@@ -139,9 +148,7 @@ Matthew Chum (Genesys)
 <img
   src="http://img.youtube.com/vi/p3PMAotuJhk/0.jpg"
   alt="Shortcuts And Scenic Routes video."
-  width="240"
-  height="180"
-  border="10"
+  width="40%"
 />
 </a>
 
@@ -177,19 +184,28 @@ Matthew Chum (Genesys)
 
 Austen Novis (Capital One)
 
+> Sketchnote by [Denise Yu](http://www.deniseyu.io/art).
+> Included from [here](https://twitter.com/deniseyu21/status/1133800160398630912),
+> unmodified, under the terms of
+> [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<img
+  src="../images/denise-yu-devopsdays-to-novis.jpg"
+  alt="Sketchnote by Denise Yu."
+  align="right"
+  width="40%"
+/>
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=DaHL2itWZeg" target="_blank">
 <img
   src="http://img.youtube.com/vi/DaHL2itWZeg/0.jpg"
   alt="Just In Time Cloud Infrastructure video."
-  width="240"
-  height="180"
-  border="10"
+  width="40%"
 />
 </a>
 
 **Other materials:**
 [MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1134200215450398720)
-| [Denise Yu's sketch](https://twitter.com/deniseyu21/status/1133800160398630912)
 
 **Twitter thrads:**
 [cornazano (me)](https://twitter.com/cornazano/status/1133757105889062912)
@@ -216,19 +232,28 @@ Austen Novis (Capital One)
 
 [Hany Fahim](https://twitter.com/iHandroid) (VM Farms)
 
+> Sketchnote by [Denise Yu](http://www.deniseyu.io/art).
+> Included from [here](https://twitter.com/deniseyu21/status/1133805355958439941),
+> unmodified, under the terms of
+> [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<img
+  src="../images/denise-yu-devopsdays-to-fahim.jpg"
+  alt="Sketchnote by Denise Yu."
+  align="right"
+  width="40%"
+/>
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=QPk1zC4AmB0" target="_blank">
 <img
   src="http://img.youtube.com/vi/QPk1zC4AmB0/0.jpg"
   alt="My Favourite Errors video."
-  width="240"
-  height="180"
-  border="10"
+  width="40%"
 />
 </a>
 
 **Other materials:**
 [MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1134159383661809665)
-| [Denise Yu's sketch](https://twitter.com/deniseyu21/status/1133805355958439941)
 
 **Twitter thrads:**
 [cornazano (me)](https://twitter.com/cornazano/status/1133789014618726401)
@@ -273,19 +298,28 @@ Austen Novis (Capital One)
 
 [Dominica DeGrandis](https://twitter.com/dominicad) (Tasktop)
 
+> Sketchnote by [Denise Yu](http://www.deniseyu.io/art).
+> Included from [here](https://twitter.com/deniseyu21/status/1134097412484730880),
+> unmodified, under the terms of
+> [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<img
+  src="../images/denise-yu-devopsdays-to-degrandis.jpg"
+  alt="Sketchnote by Denise Yu."
+  align="right"
+  width="40%"
+/>
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=P1iFAnGb0AM" target="_blank">
 <img
   src="http://img.youtube.com/vi/P1iFAnGb0AM/0.jpg"
   alt="Making Connections Visible video."
-  width="240"
-  height="180"
-  border="10"
+  width="40%"
 />
 </a>
 
 **Other materials:**
 [MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1134158336419672064)
-| [Denise Yu's sketch](https://twitter.com/deniseyu21/status/1134097412484730880)
 
 **Twitter thrads:**
 [cornazano (me)](https://twitter.com/cornazano/status/1134086511945834496)
@@ -334,9 +368,7 @@ Austen Novis (Capital One)
 <img
   src="http://img.youtube.com/vi/VNBs7s_Q4EI/0.jpg"
   alt="Inner Source video."
-  width="240"
-  height="180"
-  border="10"
+  width="40%"
 />
 </a>
 
@@ -383,19 +415,28 @@ Austen Novis (Capital One)
 Bozhidar Lenchov (Pivotal)
 | Jesse Malone (Pivotal)
 
+> Sketchnote by [Denise Yu](http://www.deniseyu.io/art).
+> Included from [here](https://twitter.com/deniseyu21/status/1134120079166251009),
+> unmodified, under the terms of
+> [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<img
+  src="../images/denise-yu-devopsdays-to-lenchov-malone.jpg"
+  alt="Sketchnote by Denise Yu."
+  align="right"
+  width="40%"
+/>
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=AM1THK7up74" target="_blank">
 <img
   src="http://img.youtube.com/vi/AM1THK7up74/0.jpg"
   alt="Double, Double, Toil And Trouble video."
-  width="240"
-  height="180"
-  border="10"
+  width="40%"
 />
 </a>
 
 **Other materials:**
 [MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1134155991803711489)
-| [Denise Yu's sketch](https://twitter.com/deniseyu21/status/1134120079166251009)
 
 **Twitter thrads:**
 [cornazano (me)](https://twitter.com/cornazano/status/1134111665258160128)
@@ -430,9 +471,7 @@ Bozhidar Lenchov (Pivotal)
 <img
   src="http://img.youtube.com/vi/G8VUP8PQqRo/0.jpg"
   alt="Sensory Friendly Monitoring video."
-  width="240"
-  height="180"
-  border="10"
+  width="40%"
 />
 </a>
 
@@ -466,9 +505,7 @@ Bozhidar Lenchov (Pivotal)
 <img
   src="http://img.youtube.com/vi/xRwm9IPXG6k/0.jpg"
   alt="Journey To The Promised Land video."
-  width="240"
-  height="180"
-  border="10"
+  width="40%"
 />
 </a>
 
