@@ -31,22 +31,23 @@ Other materials:
 
 [Emily Freeman](https://twitter.com/editingemily) (Microsoft)
 
-<div style="float: right; width: 45%; text-weight: bold; text-align: center; margin-left: 10px; margin-bottom: 10px;">
-  <img
-    src="../images/denise-yu-devopsdays-to-freeman.jpg"
-    alt="Sketchnote by Denise Yu."
-  />
-  Sketchnote by <a href="http://www.deniseyu.io/art">Denise Yu</a>.
-  Included, unmodified, under terms of <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.
-  <!-- source: https://twitter.com/deniseyu21/status/1133732734935949314 -->
-</div>
+> Sketchnote by [Denise Yu](http://www.deniseyu.io/art).
+> Included from [here](https://twitter.com/deniseyu21/status/1133732734935949314),
+> unmodified, under the terms of
+> [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<img
+  src="../images/denise-yu-devopsdays-to-freeman.jpg"
+  alt="Sketchnote by Denise Yu."
+  align="right"
+  width="40%"
+/>
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=RG4hVKFmMxQ" target="_blank">
 <img
   src="http://img.youtube.com/vi/RG4hVKFmMxQ/0.jpg"
   alt="Drafting Success video."
   width="40%"
-  style="margin-bottom: 10px;"
 />
 </a>
 
