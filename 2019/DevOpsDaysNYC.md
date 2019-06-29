@@ -26,6 +26,26 @@ Other materials:
 
 [Dominica DeGrandis](https://twitter.com/dominicad)
 
+> Visual recording by [MindsEyeCCF](http://www.mindseyecreative.ca/),
+> included from [here](https://twitter.com/MindsEyeCCF/status/1088544295127302144).
+> Video is a version of this talk recorded at DevOpsDays Toronto, May 29, 2019.
+
+<img
+  src="https://pbs.twimg.com/media/DxtJQafXQAAemft.jpg"
+  alt="Making Connections Visible visual recording."
+  align="center"
+  width="75%"
+/>
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=P1iFAnGb0AM" target="_blank">
+<img
+  src="http://img.youtube.com/vi/P1iFAnGb0AM/0.jpg"
+  alt="Making Connections Visible video."
+  width="40%"
+/>
+</a>
+
+**Other materials:**
 [slides](https://speakerdeck.com/dominicad/making-connections-visible-how-to-defrag-your-value-stream-75a2fe2d-e52b-47d4-898f-e3ae4b1c505e)
 | [MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1088544295127302144)
 
@@ -61,6 +81,7 @@ Other materials:
 
 [Jaclyn Damiano](https://twitter.com/jaclyn_damiano)
 
+**Other materials:**
 [MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1088543435840278528)
 
 **Twitter thrads:**
@@ -90,6 +111,7 @@ Other materials:
 
 [Gaurav Gargate](https://twitter.com/gauravgag)
 
+**Other materials:**
 [MindsEyeCCF sketch](https://twitter.com/gauravgag/status/1088898989108355072)
 
 **Twitter thrads:**
@@ -125,8 +147,18 @@ Other materials:
 
 [Quintessence Anx](https://twitter.com/quintessenceanx)
 
-[video (DevOpsDays Vancouver, March 29 2019)](https://www.youtube.com/watch?v=IZ5SPRx2Tm4)
-| [slides](https://noti.st/quintessence/KjitaX/sensory-friendly-monitoring-keeping-the-noise-down)
+> Video is a version of this talk recorded at DevOpsDays Vancouver, March 29, 2019.
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=IZ5SPRx2Tm4" target="_blank">
+<img
+  src="http://img.youtube.com/vi/IZ5SPRx2Tm4/0.jpg"
+  alt="Sensory Friendly Monitoring video."
+  width="40%"
+/>
+</a>
+
+**Other materials:**
+[slides](https://noti.st/quintessence/KjitaX/sensory-friendly-monitoring-keeping-the-noise-down)
 
 **Twitter thrads:**
 [cornazno (me)](https://twitter.com/cornazano/status/1088550378512240640)
@@ -155,8 +187,18 @@ Other materials:
 
 [Matty Stratton](https://twitter.com/mattstratton)
 
-[video (from DevOpsDays Charlotte, February 7 2019)](https://www.youtube.com/watch?v=DJdS48vFV20)
-| [slides](https://speaking.mattstratton.com/z91QcD/fight-flight-or-freeze-releasing-organizational-trauma)
+> Video is a version of this talk recorded at DevOpsDays Charlotte, February 7, 2019.
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=DJdS48vFV20" target="_blank">
+<img
+  src="http://img.youtube.com/vi/DJdS48vFV20/0.jpg"
+  alt="Fight, Flight, or Freeze video."
+  width="40%"
+/>
+</a>
+
+**Other materials:**
+[slides](https://speaking.mattstratton.com/z91QcD/fight-flight-or-freeze-releasing-organizational-trauma)
 
 **Twitter thrads:**
 [cornazano (me)](https://twitter.com/cornazano/status/1088560247034310656)
@@ -195,6 +237,7 @@ Other materials:
 
 [Liz Fong-Jones](https://twitter.com/lizthegrey)
 
+**Other materials:**
 [MindsEyeCCF sketch](https://twitter.com/charlieroffe/status/1088889637014249473)
 
 **Twitter thrads:**
@@ -231,6 +274,7 @@ Other materials:
 
 [Jessica Kerr](https://twitter.com/jessitron)
 
+**Other materials:**
 [slides](https://www.dropbox.com/s/5si2tfq75xsbtnj/poca.pdf?dl=0)
 | [MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1088913765838524416)
 | [blog post version](https://blog.atomist.com/principles-of-collaborative-automation/)
@@ -326,6 +370,17 @@ Rob Boll
 
 [Peter Chestna](https://twitter.com/petechestna)
 
+> Video is a version of this talk recorded at DevOpsDays Hartford, October 17, 2018.
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=RcrMfVa4TPI" target="_blank">
+<img
+  src="http://img.youtube.com/vi/RcrMfVa4TPI/0.jpg"
+  alt="This Lane Ends video."
+  width="40%"
+/>
+</a>
+
+**Other materials:**
 [MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1090285456762257411)
 
 **Twitter thrads:**
