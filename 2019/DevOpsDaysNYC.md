@@ -32,9 +32,9 @@ Other materials:
 
 <img
   src="https://pbs.twimg.com/media/DxtJQafXQAAemft.jpg"
-  alt="Making Connections Visible visual recording."
-  align="center"
-  width="75%"
+  alt="Visual recording of Dominica DeGrandis' talk, 'Making Connections Visible'."
+  align="right"
+  width="50%"
 />
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=P1iFAnGb0AM" target="_blank">
@@ -47,7 +47,6 @@ Other materials:
 
 **Other materials:**
 [slides](https://speakerdeck.com/dominicad/making-connections-visible-how-to-defrag-your-value-stream-75a2fe2d-e52b-47d4-898f-e3ae4b1c505e)
-| [MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1088544295127302144)
 
 **Twitter thrads:**
 [cornazano (me)](https://twitter.com/cornazano/status/1088443489082322945)
@@ -81,8 +80,15 @@ Other materials:
 
 [Jaclyn Damiano](https://twitter.com/jaclyn_damiano)
 
-**Other materials:**
-[MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1088543435840278528)
+> Visual recording by [MindsEyeCCF](http://www.mindseyecreative.ca/),
+> included from [here](https://twitter.com/MindsEyeCCF/status/1088543435840278528).
+
+<img
+  src="https://pbs.twimg.com/media/DxtIIJVWsAAAUe2.jpg"
+  alt="Visual recording of Jaclyn Damiano's talk, 'The X Factor'."
+  align="right"
+  width="50%"
+/>
 
 **Twitter thrads:**
 [cornazano (me)](https://twitter.com/cornazano/status/1088453768708907010)
@@ -111,8 +117,15 @@ Other materials:
 
 [Gaurav Gargate](https://twitter.com/gauravgag)
 
-**Other materials:**
-[MindsEyeCCF sketch](https://twitter.com/gauravgag/status/1088898989108355072)
+> Visual recording by [MindsEyeCCF](http://www.mindseyecreative.ca/),
+> included from [here](https://twitter.com/gauravgag/status/1088898989108355072).
+
+<img
+  src="https://pbs.twimg.com/media/DxyL27LUUAAbLb2.jpg"
+  alt="Visual recording of Gaurav Gargate's talk, 'Steel Thread approach to building large scale architectures'."
+  align="right"
+  width="50%"
+/>
 
 **Twitter thrads:**
 [cornazno (me)](https://twitter.com/cornazano/status/1088473918896250882)
@@ -237,8 +250,15 @@ Other materials:
 
 [Liz Fong-Jones](https://twitter.com/lizthegrey)
 
-**Other materials:**
-[MindsEyeCCF sketch](https://twitter.com/charlieroffe/status/1088889637014249473)
+> Visual recording by [MindsEyeCCF](http://www.mindseyecreative.ca/),
+> included from [here](https://twitter.com/charlieroffe/status/1088889637014249473).
+
+<img
+  src="https://pbs.twimg.com/media/DxyDF_oVsAAicXH.jpg"
+  alt="Visual recording of Liz Fong-Jones' talk, 'Organizing for Your Ethical Principles'."
+  align="right"
+  width="50%"
+/>
 
 **Twitter thrads:**
 [cornazano (me)](https://twitter.com/cornazano/status/1088798285484253185)
@@ -274,9 +294,18 @@ Other materials:
 
 [Jessica Kerr](https://twitter.com/jessitron)
 
+> Visual recording by [MindsEyeCCF](http://www.mindseyecreative.ca/),
+> included from [here](https://twitter.com/MindsEyeCCF/status/1088913765838524416).
+
+<img
+  src="https://pbs.twimg.com/media/DxyZEtYXcAYqrWe.jpg"
+  alt="Visual recording of Jessica Kerr's talk, 'Principles of Collaborative Automation'."
+  align="right"
+  width="50%"
+/>
+
 **Other materials:**
 [slides](https://www.dropbox.com/s/5si2tfq75xsbtnj/poca.pdf?dl=0)
-| [MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1088913765838524416)
 | [blog post version](https://blog.atomist.com/principles-of-collaborative-automation/)
 
 **Twitter thrads:**
@@ -370,7 +399,16 @@ Rob Boll
 
 [Peter Chestna](https://twitter.com/petechestna)
 
+> Visual recording by [MindsEyeCCF](http://www.mindseyecreative.ca/),
+> included from [here](https://twitter.com/MindsEyeCCF/status/1090285456762257411).
 > Video is a version of this talk recorded at DevOpsDays Hartford, October 17, 2018.
+
+<img
+  src="https://pbs.twimg.com/media/DyF4tutU0AAc7nf.jpg"
+  alt="Visual recording of Peter Chestna's talk, 'This Lane Ends'."
+  align="right"
+  width="50%"
+/>
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=RcrMfVa4TPI" target="_blank">
 <img
@@ -379,9 +417,6 @@ Rob Boll
   width="40%"
 />
 </a>
-
-**Other materials:**
-[MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1090285456762257411)
 
 **Twitter thrads:**
 [cornazano (me)](https://twitter.com/cornazano/status/1088922101044703233)
