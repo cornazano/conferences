@@ -51,11 +51,12 @@ Other materials:
 />
 </a>
 
-**Other materials:**
-[MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1133812784838467586)
+**Other materials**
 
-**Twitter thrads:**
-[cornazano (me)](https://twitter.com/cornazano/status/1133725021526999040)
+* [Talk page on the event site](https://devopsdays.org/events/2019-toronto/program/emily-freeman/)
+* [slides](https://www.dropbox.com/s/v1j3k038z19cf58/drafting%20success%20talk%20slides.pdf)
+* [MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1133812784838467586)
+* [Twitter thread: cornazano (me)](https://twitter.com/cornazano/status/1133725021526999040)
 
 **My livetweet contents**
 
@@ -105,11 +106,12 @@ Other materials:
 />
 </a>
 
-**Other materials:**
-[MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1133817587761111047)
+**Other materials**
 
-**Twitter thrads:**
-[cornazano (me)](https://twitter.com/cornazano/status/1133734628299350016)
+* [Talk page on the event site](https://devopsdays.org/events/2019-toronto/program/courtney-eckhardt/)
+* [slides](https://drive.google.com/file/d/1wNARVP5RlGeKfXwAbPyoIbvXxz098-vM/view)
+* [MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1133817587761111047)
+* [Twitter thread: cornazano (me)](https://twitter.com/cornazano/status/1133734628299350016)
 
 **My livetweet contents**
 
@@ -152,11 +154,12 @@ Matthew Chum (Genesys)
 />
 </a>
 
-**Other materials:**
-[MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1133815763175915520)
+**Other materials**
 
-**Twitter thrads:**
-[cornazano (me)](https://twitter.com/cornazano/status/1133748028710490112)
+* [Talk page on the event site](https://devopsdays.org/events/2019-toronto/program/matthew-chum/)
+* [slides](https://drive.google.com/file/d/16PLLtKzwtRtwP7pQGG3AxYqlbrP_D0l2/view)
+* [MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1133815763175915520)
+* [Twitter thread: cornazano (me)](https://twitter.com/cornazano/status/1133748028710490112)
 
 **My livetweet contents**
 
@@ -204,11 +207,12 @@ Austen Novis (Capital One)
 />
 </a>
 
-**Other materials:**
-[MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1134200215450398720)
+**Other materials**
 
-**Twitter thrads:**
-[cornazano (me)](https://twitter.com/cornazano/status/1133757105889062912)
+* [Talk page on the event site](https://devopsdays.org/events/2019-toronto/program/austen-novis/)
+* [slides](https://docs.google.com/presentation/d/e/2PACX-1vSNm_LRQQSH76P2bmOnSBvk_W8cYFRvsgZ22e2GZMkWT0Fg96tBmadItXuL7bI1e7v25zv_AIQkPFyd/pub)
+* [MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1134200215450398720)
+* [Twitter thread: cornazano (me)](https://twitter.com/cornazano/status/1133757105889062912)
 
 **My livetweet contents**
 
@@ -252,11 +256,12 @@ Austen Novis (Capital One)
 />
 </a>
 
-**Other materials:**
-[MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1134159383661809665)
+**Other materials**
 
-**Twitter thrads:**
-[cornazano (me)](https://twitter.com/cornazano/status/1133789014618726401)
+* [Talk page on the event site](https://devopsdays.org/events/2019-toronto/program/hany-fahim/)
+* [slides](https://speakerdeck.com/vmfarms/tales-from-the-ops-side-my-favourite-errors)
+* [MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1134159383661809665)
+* [Twitter thread: cornazano (me)](https://twitter.com/cornazano/status/1133789014618726401)
 
 **My livetweet contents**
 
@@ -318,11 +323,12 @@ Austen Novis (Capital One)
 />
 </a>
 
-**Other materials:**
-[MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1134158336419672064)
+**Other materials**
 
-**Twitter thrads:**
-[cornazano (me)](https://twitter.com/cornazano/status/1134086511945834496)
+* [Talk page on the event site](https://devopsdays.org/events/2019-toronto/program/dominica-degrandis/)
+* [slides](https://drive.google.com/file/d/1WIYAh5diEnAJXCqS4tt6TjJeYip8HrnV/view)
+* [MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1134158336419672064)
+* [Twitter thread: cornazano (me)](https://twitter.com/cornazano/status/1134086511945834496)
 
 **My livetweet contents**
 
@@ -372,11 +378,12 @@ Austen Novis (Capital One)
 />
 </a>
 
-**Other materials:**
-[MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1134152791755300864)
+**Other materials**
 
-**Twitter thrads:**
-[cornazano (me)](https://twitter.com/cornazano/status/1134097009735086080)
+* [Talk page on the event site](https://devopsdays.org/events/2019-toronto/program/wasim-hossain/)
+* [slides](https://drive.google.com/file/d/1LqcTOtFQy53hrovLBDGbsmlNlyWShNFd/view?usp=drivesdk)
+* [MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1134152791755300864)
+* [Twitter thread: cornazano (me)](https://twitter.com/cornazano/status/1134097009735086080)
 
 **My livetweet contents**
 
@@ -435,11 +442,12 @@ Bozhidar Lenchov (Pivotal)
 />
 </a>
 
-**Other materials:**
-[MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1134155991803711489)
+**Other materials**
 
-**Twitter thrads:**
-[cornazano (me)](https://twitter.com/cornazano/status/1134111665258160128)
+* [Talk page on the event site](https://devopsdays.org/events/2019-toronto/program/bozhidar-lenchov/)
+* [slides](https://drive.google.com/file/d/1xzTJraB831bO-KE8Wm1mIPPD2XVwILym/view?usp=drivesdk)
+* [MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1134155991803711489)
+* [Twitter thread: cornazano (me)](https://twitter.com/cornazano/status/1134111665258160128)
 
 **My livetweet contents**
 
@@ -475,11 +483,12 @@ Bozhidar Lenchov (Pivotal)
 />
 </a>
 
-**Other materials:**
-[MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1134150266612256768)
+**Other materials**
 
-**Twitter thrads:**
-[cornazano (me)](https://twitter.com/cornazano/status/1134120891548360706)
+* [Talk page on the event site](https://devopsdays.org/events/2019-toronto/program/quintessence-anx/)
+* [slides](https://noti.st/quintessence/Muw5Fk/sensory-friendly-monitoring-keeping-the-noise-down)
+* [MindsEyeCCF sketch](https://twitter.com/MindsEyeCCF/status/1134150266612256768)
+* [Twitter thread: cornazano (me)](https://twitter.com/cornazano/status/1134120891548360706)
 
 **My livetweet contents**
 
@@ -509,11 +518,11 @@ Bozhidar Lenchov (Pivotal)
 />
 </a>
 
-**Other materials:**
-[slides](https://noti.st/devopsjacquie/uScDZq)
+**Other materials**
 
-**Twitter thrads:**
-[cornazano (me)](https://twitter.com/cornazano/status/1134150533399371776)
+* [Talk page on the event site](https://devopsdays.org/events/2019-toronto/program/jacquelyne-grindrod/)
+* [slides](https://noti.st/devopsjacquie/uScDZq)
+* [Twitter thread: cornazano (me)](https://twitter.com/cornazano/status/1134150533399371776)
 
 **My livetweet contents**
 
