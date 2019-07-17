@@ -547,6 +547,10 @@ John Allspaw
 
 # Day 3: Wednesday 2017-11-15
 
+* _The Other Side of Innovation_
+* Christensen, _The Innovator's Dilemma_
+* Performance engine vs. dedicated [transformation] team
+
 ## <a name="dekker"></a> The Pursuit of Success & Averting Drift into Failure
 
 Sidney Dekker
@@ -558,6 +562,17 @@ Sidney Dekker
   width="40%"
 />
 </a>
+
+* As the pilot, you have the privilege of being the first person on the scene of an accident
+* KPIs don't predict disaster; followed by blowup
+* If you don't have kids, you have just solved a significant logistics problem in your life
+* Airline reporting more incidents has lower mortality rate; inverse correlation
+* Why did others go right?
+* **Presence of positive capacities** is predictive; absence of negative is not
+* Past success not predictive in complex systems
+* Reward for speaking up is future and uncertain; reward for remaining silent is immediate and certain (and negative)
+* "We need to put the armor where there are no holes, because those are the ones that don't come back."
+* How does stuff get done _despite_ the constraints and obstacles?
 
 ## <a name="kumar-clanton"></a> A DevOps Journey With a Competitive Twist
 
@@ -571,6 +586,12 @@ Nanda Kumar | Ross Clanton (Verizon)
 />
 </a>
 
+* Scaling engineering
+* Creating an intentional learning environment (dojos)
+* Purpose of the dojo is _learning_ - need to slow down to do this [ed: deliberate practice?]
+* Transform operating model
+* v2 devopsdays
+
 ## <a name="forrester-boecker"></a> DevOps at Nike: There is No Finish Line
 
 Ron Forrester | Scott Boecker (Nike)
@@ -582,6 +603,16 @@ Ron Forrester | Scott Boecker (Nike)
   width="40%"
 />
 </a>
+
+* "If you have a body, you're an athlete"
+* Out of stock after 2-3 hour wait: "Not an ideal consumer experience".
+* Set of _aspirations_ include:
+  * Small releases every day
+  * OS-first (use _and_ publish)
+* Product + engineering joint ownership
+* Decentralized quality - "engineers are super fragile and emotional" (engineers now own quality)
+* No people with DevOps in their title, not just a retitle of production support. This is a forcing function.
+* "Opportunity to engage with a community that is formed by waiting in a queue"
 
 ## <a name="deardo-kersten"></a> The Case for Value Stream Architecture
 
@@ -595,6 +626,11 @@ Carmen DeArdo | Mik Kersten
 />
 </a>
 
+* New DevOps startup map
+* Fragmented value streams via adoption of best-of-breed tools
+* Value _network_
+* Value stream stories
+
 ## <a name="imbriaco"></a> Enterprise DevOps and Unicorns
 
 Mark Imbriaco
@@ -606,6 +642,11 @@ Mark Imbriaco
   width="40%"
 />
 </a>
+
+* What problem was I trying to solve?
+* Invested 2 days, still at least one more - maybe throw it away? (pivot)
+* _linear_ causality doesn't really exist
+* Change approval is the mind killer
 
 ## <a name="thompson"></a> Intentional Architecture in Agile Organizations
 
@@ -619,6 +660,22 @@ Dave Thompson
 />
 </a>
 
+* SAFe and SCRUM are tools to help you get to core Agile behavior
+* Emergent architecture
+  * Teams make decisions locally
+  * Three javascript frameworks for a single site :(
+* Intentional architecture
+  * Plan to manage tech debt
+  * Communication; who can make decisions
+  * Teams aren't always good at understanding the ramifications of their decisions
+* Bottom-up architecture
+  * Perf + scalability guidelines <-- part of tech introduction
+  * Template for new services
+  * Book club for rollout (voluntary) - one chapter per week
+  * Move from 5 test frameworks to 3 (this was for a single service)
+  * Architecture backlog intergrated with product backlog [note: this is a recurring theme]
+  * Observability: system metrics, user metrics
+
 ## <a name="jalleda"></a> DevOps at Scale is a Hard Problem
 
 Kishore Jalleda (Yahoo)
@@ -630,6 +687,12 @@ Kishore Jalleda (Yahoo)
   width="40%"
 />
 </a>
+
+* Additional reference to "toil" as loss of hours
+* Core dev teams own their own stuff
+* Non-core (ops) teams build tooling
+* Uptime is overrated
+* Ops is moving _up_ the stack, dev is moving _down_ the stack
 
 ## <a name="wester"></a> Taming the Chaos: Beyond the Quick Wins
 
@@ -643,6 +706,23 @@ Julia Wester
 />
 </a>
 
+* All change takes adjustment
+* Alignment on what and when - on at least two vectors
+* Broken feedback loops are a problem
+* Connect the system
+* DevOps (variants) are really systems thinking
+* Who needs stuff from us? <-- start here to build social capital
+* Who do we need things from?
+* Bring people together to discuss goals, priorities to create alignment
+* Look at _what_
+* "Tell me how you measure and I will tell you how you behave"
+* Waiting and handoff is where we lose time
+* Enabling constraints (e.g. WIP limits). Example: limit by risk category
+* Risk translates to _more work_ at some unknown point
+* Prioritize continuous improvement
+* Cadences to create habits
+* We're all responsible for improvement
+
 ## <a name="kim-dekker-spear-cook"></a> Convergence Of Safety Culture And Lean: Lessons From The Leaders
 
 Gene Kim | Sidney Dekker | Steven Spear | Richard Cook
@@ -654,6 +734,18 @@ Gene Kim | Sidney Dekker | Steven Spear | Richard Cook
   width="40%"
 />
 </a>
+
+* Key safety points for devops?
+* Safety culture allows boss to hear bad news
+* "Don't see people as the problem to control - they're your problem solvers"
+* Leader needs to be ok wiht saying "I don't know"
+* High velocity environment makes it easy to forget what we should remember / learn
+* Important lean practices for devops?
+* Identify ignorance and convert it into useful knowledge (Lean/Toyota)
+* Mecanism to signal an inadequacy as soon as its recognized (andon)
+* "system of escalating consequences"
+* DevOps is (also) the practice of building a community
+* Good results come from experience, and experience comes from bad results
 
 ## <a name="hendrickson"></a> Data and DevOps: Breaking Down the Silos
 
@@ -667,6 +759,19 @@ Elisabeth Hendrickson
 />
 </a>
 
+* Better testing, worse quality (paper from 2001)
+* Data is still in a silo
+  * DBAs - data fabric
+  * Data engineers - ETL pipelines
+  * Data scientists
+* Open ticket to get access to data that they're supposed to use
+* DevOpsing data is hard
+* From a risk standpoint, losing your data is bad
+* Data governance. HIPPA, etc. in addition to internal tech
+* Try detecting cache not getting refreshed or split-brain cluster and alerting on them
+* Take care automating things requiring human judgment - restores, etc.
+* Bring _some_ data features into MVPs to build it incrementally.
+
 ## <a name="smart"></a> The Yin and Yang of Speed and Control
 
 Jonathan Smart (Barclays)
@@ -678,3 +783,21 @@ Jonathan Smart (Barclays)
   width="40%"
 />
 </a>
+
+* Looking at impediments to flow across the whole organization (while sitting in IT)
+* Bank. Must have control _first_, and speed _second_
+* Want to scale agile? Don't. De-scale the work first.
+* Focus on the outcomes.
+* Don't waste time on irrelevant
+* Agile transformation as a _means_, not an objective in itself
+* Flow / quality / happiness / value
+* Better products faster safer happier
+* Productivity --> valuetivity
+* Break value streams and reforge them to respond to disruption
+* John Shook: easier to act your way to a new way of thinking rather than think your way to a new way of acting
+* Impediments are not in the path, impediments are the path
+* Lean control (do the right thing)
+* Early and late engagement --> early and often engagement
+* Risk stories / functional stories / non-functional stories / ...
+* Hypothesis driven investment
+* Obeya rooms

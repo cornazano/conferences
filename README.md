@@ -14,7 +14,7 @@
 
 ## 2017
 
-* DevOps Enterprise Summit (November 13-15, San Francisco)
+* [DevOps Enterprise Summit (November 13-15, San Francisco)](2017/DevOpsEnterpriseSummitUSA.md)
 * [DevOpsDays Detroit (September 27-28, Detroit)](2017/DevOpsDaysDET.md)
 
 ## 2016
