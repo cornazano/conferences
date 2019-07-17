@@ -351,6 +351,9 @@ Mirco Hering
 
 # Day 2: Tuesday 2017-11-14
 
+* _Techological Revolutions and Financial Capital_
+* _Disrupt or Die_
+
 ## <a name="pal-brady"></a> Better Governance: Banking on Continuous Delivery
 
 Topo Pal | Jennifer Brady (Capital One)
@@ -362,6 +365,27 @@ Topo Pal | Jennifer Brady (Capital One)
   width="40%"
 />
 </a>
+
+* Making sure _risks_ are addressed with new tech such as cloud
+* eno - gender-neutral chatbot
+* Hygeia, Hydrograph - open source. 25 projects / 109 devs / 12 teams.
+* 5 year journey
+* Mostly out-sourced --> mostly in-sourced
+* Vertical silos --> product team
+* JFDI - Just Do It
+* No differentiated _types_ of IT engineers
+* You build it, you own it
+* no fear release
+* safety in continuous delivery
+* one comma caused a half-billion dollar error
+* Not COMPLIANCE, but GOVERNANCE
+* Three lines of defense
+* Need to have someone who understands what the implications of the code are
+* Ensure that a single developer cannot make changes to production bypassing all controls
+* Clean room - adopted from _Software Delivery Clean Room_
+* All product pipelines are identified and registered.
+* max deploys to prod per day for a product: 30 in 2016, 50 in 2017
+* Are you well managed if you're doing CD, if you're not doing CD?
 
 ## <a name="mathew"></a> The Making of Amazon Prime Now
 
@@ -375,9 +399,37 @@ Tisson Mathew
 />
 </a>
 
+* Amazon doesn't need an innovation department because all teams are innovating
+* Need for an innovation department indicates an issue for the org
+* Prime Now - "cloud 7-11 store"
+* Team owns one or more services
+* You own it - if there's a problem, your pager goes off
+* No coordination between teams
+* 6-9 people for any new initiative - one pizza team
+* Traditional e-commerce: 1-2 days for fulfillment. Needed ~15 minutes instead.
+* Limit fulfillment changes to happy path only.
+* Facade - handled monitoring and exceptions.
+* Worked on appropriate decoupling, creating _service compositions_ at enterprise level
+* Too many fine-grained services can be a problem
+* Enterprise initiatives that cut across services is a challenge for devops / microservices; how to minimize redundancy?
+
 ## <a name="cox-scott"></a> Disney Presentation (I don't have the title)
 
 Jason Cox | Brian Scott
+
+* Small things, small ideas, can become big
+* Tech as part of DNA, but _always in service ot telling a story_
+* Second only to creativity, is technology.
+* How de we scale devops / digital transformation?
+* I see the computer as the bicycle of the mind; amplifies our efficiency.
+* Movies anywhere. Collaboration with four other studios to make them available.
+* Brian's team is embedded with devs = feature design, sprints, project management, etc.
+* One major version behind the major release to avoid new introduced bugs.
+* Use lambda for notification - more like cron jobs.
+* All in on Kubernetes, running on AWS.
+* Really aggressive on deployments - usually minutes.
+* _Everything_ through a pipeline (like Capitol One).
+* Moving to Jenkins from GitLab.
 
 ## <a name="willis"></a> DevOps: You Build It, You Secure It
 
@@ -391,6 +443,21 @@ John Willis
 />
 </a>
 
+* Devops is a set of practices and patterns that turn human capital into high performance organizational capital
+* "It's not about the technology, stupid!"
+* Conventional wisdom: fast, cheap, good - choose two. This is wrong!
+* DevOps, resilience, speed - must have all three!
+* "Thank you" as first response to Andon pull, since it creates a learning opportunity
+* 150 million automated tests run per day (Google 2016)
+* _The Rugged Manifesto_
+* Bad guys are better at collaborating than we are
+* Holistic systems approach to security <-- DevSecOps
+* Cannot shfit left if all the boxes are not secured
+* Something that has been done: security in charge of cloud formation templates
+* Don't inherit, create your own base image
+* Containers as policy control
+* DevOps Kaizen
+
 ## <a name="magennis"></a> 10 Different Techniques for Choosing What to Start Next
 
 Troy Magennis
@@ -402,6 +469,18 @@ Troy Magennis
   width="40%"
 />
 </a>
+
+* Don Reinertsen:
+  * Whenever we choose to do something we also choose to not do other things.
+  * Demand > available capacity
+* _Constraint_ causes need to prioritize
+* What's the impact of delaying? (delay cost)
+* We can't quantify value --> ok, then we will work on them in alpha order (threaten to provoke actual feedback)
+* bit.ly/BetterPrioritization
+* Note: HIPPO is not _necessarily_ wrong, but they must have context and track record
+* SAFe formula, out of the box, is terrible - but there are compensating factors in the framework. Needs education to avoid misleading.
+* Note: cost of delay can change over time
+* Choose prioritization technique based on impact of being wrong.
 
 ## <a name="blank-edelman"></a> SRE for Enterprises
 
@@ -415,6 +494,22 @@ David Blank-Edelman
 />
 </a>
 
+* What and how of SRE for enterprises?
+* CRE - customer reliability engineering
+* Engineer failure out of a system to achieve the desired level of reliability
+* Gate launches on error budget <-- key point
+* SLO - service level objectives - embed these in monitoring systems
+* SRE is about virtuous and reinforcing feedback loops
+* "You can't fire your way to reliable"
+* Hierarchy of reliability (Mikey Dickerson)
+* People / culture requirements
+  * Values
+  * Engineering culture (at least a bubble) + resources
+  * Toil-intolerant culture
+  * Ownership strucutre around products
+  * Org strucutre
+* No right way to build SRE teams, but there are wrong ways
+
 ## <a name="forsgren"></a> The Key to High Performance: What the Data Says
 
 Nicole Forsgren
@@ -426,6 +521,13 @@ Nicole Forsgren
   width="40%"
 />
 </a>
+
+* SW delivery performance: throughput _and_ stability. Both are possible without tradeoffs
+* Culture / automation / lean /
+* Architectire matters / tech stack doesn't
+* Predictive things
+* (Should read something on Westrum Organizational Culture)
+* Transformational leadership is most predictive model for high performance
 
 ## <a name="allspaw"></a> How Your Systems Keep Running Day After Day
 
@@ -439,6 +541,9 @@ John Allspaw
 />
 </a>
 
+* Resilience engineering as DevOps
+* Review of STELLA report above/below the line of representation
+* Incidents are drivers of software design
 
 # Day 3: Wednesday 2017-11-15
 
