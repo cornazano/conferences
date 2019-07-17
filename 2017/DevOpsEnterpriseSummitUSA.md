@@ -50,11 +50,8 @@ Gene Kim | Sam Fell
 </a>
 
 * Security metrics in daily work - high performers (State of DevOps report)
-
 * Devops is for both unicorns and horses
-
 * We don't learn from what thinking about / actually learn from experiences (also, allows negating of "can't do it here" objections)
-
 * Span business/tech divide - one of the types of experience reports
 
 ## <a name="prugh-morisson"></a> More Culture, More Engineering, Less Duct-Tape
@@ -70,31 +67,18 @@ Scott Prugh | Erica Morisson (CSG)
 </a>
 
 * Build/run teams (collapsed dev + ops teams) - working on eliminating bimodal identity
-
 * Mode 1: Servers are destroyed in the parking lot with a sledgehammer
-
 * Mode 2: Servers apps run safely with speed + quality
-
 * 60% reduction in incidents by changing to build/run teams (got rid of silos - made issues visible in devs experience!)
-
 * CSG has an HR person here - because it is about the people!
-
 * Service owner model
-
   * combine dev + ops backlogs!
-
   * Get the investment into fixing service issues - USE IT AS A FORCING FUNCTION!
-
   * Decentralized change model; make systems safer for change
-
   * Support - tiers are an issue, switch to Major Incident Swarm model
-
   * Moved from "blissfully unaware" to Post-Incident Review + After Action Summary
-
 * Metric: how much sleep I get during these changes!
-
 * Reorganized. What does DevOps mean to CSG? - Targetd DevOps culture focus.
-
 * Looking to learn more about culture aspects.
 
 ## <a name="rzeszotarski-gillespie"></a> Augmenting the Org for DevOps
@@ -110,43 +94,24 @@ John Rzeszotarski | Stephanie Gillespie (Key Bank)
 </a>
 
 * Key Bank is the 13th largest in the US.
-
 * Dev team - speed to market
-
 * Sec - compliance
-
 * Ops - reliability
-
 * Network hops - hundreds - dependencies
-
 * Shift from 24 to 18 months to handle largest post-2008-meltdown bank acquisition. Moved from waterfall to devops to do this.
-
 * Moved to Kubernetes for reliability; containergeddon.
-
 * Netflix Histerix framework for circuit breakers.
-
 * Test automation - because it is a bottleneck (constraint in TOC terms); 20 hours --> 12 mins.
-
 * Login was worse + confusing - social media fallout about how Key Bank screwed up.
-
 * 10 changes in 4 business days, no impact, all during the business day.
-
 * Confidence gap. Animosity between sides.
-
-  * inovvative change <--> control & reliability
-
+  * innovative change <--> control & reliability
   * advancement <--> complacency
-
 * windows: start using keyboard
-
 * linux: start using mouse
-
 * metaphor of IT as air traffic control
-
 * Grow a new talent base, **not** traditional application development
-
 * Should automate infrequent tasks to avoid errors.
-
 * Growing new
 
 ## <a name="nasello"></a> Using DevOps to Build Your Learning Organization
@@ -162,29 +127,17 @@ Scott Nasello (Columbia Sportswear)
 </a>
 
 * No exec sponsor, no driver, moving from commercial off the shelf software
-
 * Role as IT professionals is changing
-
 * Swap primaries and alternates (owners/experts) - idea, but they weren't ready
-
 * Can't have follow the orders + leader w/o technical knowledge. BOOM!
-
 * Mentioned _Turn The Ship Around!_ (Marquet)
-
 * Be / Know / Do model. Leaders must be seen as _learning_ and _going outside their comfort zone_
-
 * From no version control (send copy of script to myself via email) to target 250 artifacts; actually over 500.
-
 * Consistently asked for "where's your artifact?"
-
 * Attempt to automate. Discovers divergence in practice!
-
 * "Rockstars/builders/janitors" (citing Alice Goldfuss' Velocity conf talk)
-
 * Chatops - sufficiently important that they threw a birthday party for their chatbot!
-
 * Engineers solving problems in real time with partners!
-
 * Riff on Dojo - bring the learning to the people
 
 ## <a name="mayner"></a> Transformational Leadership and DevOps
@@ -200,37 +153,21 @@ Steve Mayner
 </a>
 
 * Organizational change is hard and prone to failure
-
 * Survey of existing literature (lit review) as part of doctoral work
-
 * _Leading Change_, John P. Cotter
-
 * Culture change: 19% success
-
 * Ability to adapt and change is a core competency
-
 * Confusion --> frustration --> anxiety --> fear --> resistance
-
 * More peer reviewed research on Transformational Leadership than any other theory
-
 * Cycle: Creativity --> Growth --> Authenticity --> Vision --> (back to beginning)
-
   * First two involve interaction with others
-
   * Latter two involve leader leading themselves
-
 * Leader needs to create _environment_ to empower others (adaptive leadership)
-
 * Correlates with _successful_ organizational change; more influence than any change methodology (leader behaviors)
-
 * Behaviors are learnable
-
 * Leadership and change case study
-
 * Transformation leadership initiative
-
 * "First time I felt like someone actually cared if I stayed here"
-
 * Need repeatable / scalable model of what they did
 
 ## <a name="yeman-johnson"></a> What Legacy Government Organizations Need to Advance the State of DevOps
@@ -246,35 +183,20 @@ Robin Yeman (Lockheed Martin) | Suzette Johnson (Northrop Grumman)
 </a>
 
 * "Felt it was more risky to keep doing things the same way than to change"
-
 * 10 agile teams entailed integration issues. Response: Start down CI path, teast early, test often.
-
 * "The Make-It-Work team because that was their task"
-
 * When you tackle part of the value stream, another part becomes the bottleneck
-
 * Growth of agile in an org means need for infra to support it
-
 * Center of excellence - auditable procedures
-
 * Build guidance so people don't have to reinvent
-
 * Training - starts with engineers, but also managers - and leadership!
-
 * If only doing at grassroots level, don't always have the authority to make necessary changes
-
 * Make it easier to adopt, most people will adopt
-
 * Coaches help teams get up and running
-
 * Training includes finance as well.
-
 * CS curriculum today looks the same as it did 25 years ago
-
 * Agile and (separate) DevOps community of practice - book clubs - everybody is learning as we go
-
 * Employee happiness as metric. Questioned: "but why do we care?"
-
 * Principles: Not just about software, but across the value stream.
 
 ## <a name="degrandis"></a> The Balanced Calendar: How to Optimize Your Time
@@ -290,39 +212,22 @@ Dominica DeGrandis
 </a>
 
 * Too many meetings / interruptions lead to burnout
-
 * 30-minute jam - problem is context switching, typical of managers.
-
 * All day cram - no room for ataptation, typical of execs - need reschedule / cancelled
-
 * Triple booked wham - rework costs
-
 * "Knowledge work is perishable; the longer the time, the bigger the problem"
-
 * Maker calendar - creative people - long blocks
-
 * Manager calendar - decision makers - managers meet with managers during prime maker hours; include unstructured time!
-
 * Combo calendar - people who do both - reschedule to free blocks for deliverables
-
 * Interruption busters:
-
   * Pomodoro - short, high focus
-
   * Do not disturb hours - communicate and have _regular cadence_
-
   * Office hours
-
 * How to get buy in. Measure competing metrics! How fast? productive? good? predicatble?
-
 * "It's hard to manage unplanned work"
-
 * "What's the probability of completing this work in X days?" - percentiles
-
 * Set _ranges_ not _dates_
-
 * _Death By Meeting_, Lencioni
-
 * _250 Ways to Say No_
 
 ## <a name="knight"></a> How Systems Thinking and Lean Principles Can Be Used
@@ -337,6 +242,25 @@ Lance Knight (Go2Group)
 />
 </a>
 
+* Cover top points
+* Relevance? To fix the system, you need to look at flow
+* work intake ---> code in production
+* Implemented tools, not succeeding
+* Systems thinking:
+  * set of elements, inputs through phased transition --> emergence of an output
+  * _not_ as system if no relationships
+  * It's about feedback loops
+* Lean principles:
+  * Identify value
+  * Map the value stream
+  * etc.
+* Refs: _Lean Thinking_, _The Machine That Changed The World_
+* Theory of constraints:
+  * This is what to fix to improve velocity
+  * DevOps is _WHOLE SYSTEM_
+* Claim: Value stream ignores feedback loops, need systems thinking [ed: complements kaizen, which at least partially accounts for feedback?]
+* Integration hub
+
 ## <a name="edwards"></a> Keeping Your DevOps Transformation from Crushing Your Ops Capacity
 
 Damon Edwards
@@ -348,6 +272,23 @@ Damon Edwards
   width="40%"
 />
 </a>
+
+* What happens to ops with the crunch of change?
+* Unplanned work - most toxic
+* Ops - only place where planned + unplanned work come together
+* "Dumpster diving looking for the right docs"
+* Use lean thinking to look at post-deployment process
+* Empower those closes to the issue
+  * push left
+  * escalation is counter to this
+* Silo is a **WAY OF WORKING**, **NOT** just an org structure
+* Look for ticket systems; they tend to have silos on either side!
+* _Principles of Product Development Flow_: If you're going to measure one thing, measure cost of delay.
+* Communication across cross-functional teams just re-silos
+* Service design pattern: get rid of tickets as governing day-to-day work, use only for exceptions.
+* Governance: Security and compliance stays within ops, move the rest left
+* Support at the edge program: 47 mins reduced to 3.5, 50% reduction in escalations
+* www.rundeck.com/oaas
 
 ## <a name="thrasher"></a> Scaling DevOps Talent in a Large Enterprise
 
@@ -361,6 +302,28 @@ Paula Thrasher
 />
 </a>
 
+* Government sector
+* Different audiences, different skills; T-shaped skills, how to lead a DevOps team
+* Does your team go through the class and _bring it home_?
+* CSRA learning cohort
+  * 1hr hw, 1 hr discussion per week
+  * voluntary
+  * scrummasters, team leads, pms - leads only
+* Asked people to go deeper than what was learned in class
+* Chatter group (slack) for cross-team discussion
+* Repeat every quarter - 75 people for 12 weeks, _then they lead others_
+* Adopting visual management system
+* Want people to learn to be a devops team --> hackathon
+* Cyberstorm. 1 day event; like a hackathon, red team/blue team, but for security. Keep your systems up, take their systems down.
+* Training people before hiring! Partnered with universities, worked with them to modify programs to help ensure
+* they were teaching transistors in comp sci, teaching C++ <-- not the highest impact skills
+* created a devops degree, including systems thinking
+* contrast: CS majors hired, had never used source control ;_;
+* Talent pipeline - when hired, work with specific _type_ of senior
+* Learn by doing - make learning as close to the job as possible
+* CEO/CIO leadership recognition for obtaining new skills
+* How to avoid group think and keep innovating?
+
 ## <a name="hering"></a> A Story of DevOps Transformations
 
 Mirco Hering
@@ -372,6 +335,18 @@ Mirco Hering
   width="40%"
 />
 </a>
+
+* _What Got You Here Won't Get You There_
+* Metamodel - transformation lifecycle
+* "There is no end state. If you think there's an end state, you're dreaming."
+* Still working with management principles from early 20th century
+* You can't successfully measure productivity in IT.
+* Issue - false assumptions: IT can be managed based on engineering/manufacturing principles.
+* Wrong mental model pushes us into adding more processes, which is a problem.
+* Need to bring people together up front to talk about the business problems we're trying to solve.
+* Cost reduction per hour likely indcates a lack of automation on the vendor side.
+* first-time resolution time / resolution time; this ration should be high
+* Partner or vendor - if vendor (mental model), can't fail entails can't learn (paid $, wants results)
 
 
 # Day 2: Tuesday 2017-11-14
