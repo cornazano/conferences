@@ -2,6 +2,9 @@
 
 ## 2019
 
+* **UPCOMING!** [DevOpsDays Montreal (November 5-6, Mongreal)](2019/DevOpsDaysMTL.md)
+* **UPCOMING!** [REdeploy (October 16-17, San Francisco)](2019/REdeploy.md)
+* **UPCOMING!** [DevOpsDays Hartford (October 2-3, Hartford CT)](2019/DevOpsDaysHFD.md)
 * [DevOpsDays Toronto (May 29-30, Toronto)](2019/DevOpsDaysTO.md)
 * CALICO Conference (May 22-25, Montreal)
 * [DevOpsDays New York City (January 24-25, New York City)](2019/DevOpsDaysNYC.md)
