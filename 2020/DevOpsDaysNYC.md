@@ -38,6 +38,8 @@ Other materials:
 **Twitter thrads:**
 
 [cornazano (me)](https://twitter.com/cornazano/status/1234846440586911747)
+| [IAmJerdog (Jeremy)](https://twitter.com/IAmJerdog/status/1234848091859292160)
+| [lizthegrey (Liz Fong-Jones)](https://twitter.com/lizthegrey/status/1234845998884757506)
 
 
 **My livetweet contents**
@@ -85,6 +87,7 @@ Other materials:
 **Twitter thrads:**
 
 [cornazano (me)](https://twitter.com/cornazano/status/1234851998207553542)
+| [lizthegrey (Liz Fong-Jones)](https://twitter.com/lizthegrey/status/1234851595227160576)
 
 
 **My livetweet contents**
@@ -135,6 +138,7 @@ Other materials:
 **Twitter thrads:**
 
 [cornazano (me)](https://twitter.com/cornazano/status/1234938049991065602)
+| [lizthegrey (Liz Fong-Jones)](https://twitter.com/lizthegrey/status/1234938689878360065)
 
 
 **My livetweet contents**
@@ -161,6 +165,7 @@ Other materials:
 ## <a name="hampton"></a> Lessons In Ethical Development I Learned From Star Wars
 
 [Jameson Hampton](https://twitter.com/jameybash)
+| [lizthegrey (Liz Fong-Jones)](https://twitter.com/lizthegrey/status/1234945398277537792)
 
 > Visual recording by [MindsEyeCCF](http://www.mindseyecreative.ca/).
 
