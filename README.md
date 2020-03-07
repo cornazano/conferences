@@ -1,5 +1,9 @@
 # Conferences
 
+## 2020
+
+* [DevOpsDays New York City (March 3-4, New York City)](2020/DevOpsDaysNYC.md)
+
 ## 2019
 
 * [DevOpsDays Montreal (November 5-6, Montreal)](2019/DevOpsDaysMTL.md)
